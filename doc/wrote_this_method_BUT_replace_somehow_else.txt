@@ -1,0 +1,17 @@
+I wrote this method but replaced it!!!
+
+    private static int sumFemaleNames() {
+        List<String> tempList = new ArrayList<>();
+
+        for (List<FirstName> firstNameList : firstNamesMap.values()) {
+            for (FirstName firstName : firstNameList) {
+                if (Gender.FEMALE.equals(firstName.getGender())) {
+                    tempList.add(firstName.getFirstName());
+                }
+            }
+        }
+        return tempList.size();
+    }
+
+I replaced that 100 % equals sumMale + sumFemale i.e if I know that 100% and sumMale --> sumFemale = 100 - sumMale
+

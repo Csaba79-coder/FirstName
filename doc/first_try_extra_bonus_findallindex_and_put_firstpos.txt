@@ -1,0 +1,144 @@
+Nice try:
+
+public static List<String> runSeventeenthExtraBonus() {
+        return findFits(ARGS);
+    }
+
+    public static boolean verifyFits(List<String> list, Object[] args) {
+        List<String> stringList = new ArrayList<>();
+        for (int i = 0; i < list.size(); i++) {
+            for (int j = 0; j < args.length; j++) {
+                if (list.get(i).equals(args[j])) {
+                    stringList.add(list.get(i));
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+    private static List<String> findFits(Object[] args) {
+        List<String> stringList = new ArrayList<>();
+        for (List<FirstName> firstNameList : firstNamesMap.values()) {
+            for (FirstName firstName : firstNameList) {
+                if (verifyFits(firstName.getOrigin(), ARGS)) {
+                    stringList.add(firstName.getFirstName());
+                    Collections.swap(stringList, createIndexFromList(findIndexAllFits(firstName.getOrigin(), ARGS)), 0);
+                }
+            }
+        }
+        return stringList;
+    }
+
+    public static List<Integer> findIndexAllFits(List<String> list, Object[] args) {
+        List<String> stringList = new ArrayList<>();
+        List<Integer> integerList = new ArrayList<>();
+
+        for (int i = 0; i < list.size(); i++) {
+            for (int j = 0; j < args.length; j++) {
+                if (args[i].equals(list.get(j))) {
+                    stringList.add(list.get(j));
+                }
+                if (stringList.size() == args.length) {
+                    integerList.add(j);
+                }
+                return integerList;
+            }
+        }
+        return null;
+    }
+
+    public static int createIndexFromList(List<Integer> integerList) {
+        for (Integer integer : integerList) {
+            return integer;
+        }
+        return -1;
+    }
+
+    This one also not works: not ordering!
+
+    public static List<String> runSeventeenthExtraBonus(){
+            return findAnyFits(ARGS);
+        }
+
+        private static boolean verifyAnyArgs(List<String> stringList, Object[] args) {
+            for (Object arg : args) {
+                for (String s : stringList) {
+                    if (arg.equals(s)) {
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
+
+        private static List<String> findAnyFits(Object[] args) {
+            List<String> stringList = new ArrayList<>();
+            for (List<FirstName> firstNameList : firstNamesMap.values()) {
+                for (FirstName firstName : firstNameList) {
+                    if (verifyAnyArgs(firstName.getOrigin(), ARGS)) {
+                        stringList.add(firstName.getFirstName());
+                        Collections.swap(stringList, findIndexOfAllMatches(firstName.getOrigin(), ARGS), 0);
+                    }
+                }
+            }
+            return stringList;
+        }
+
+        private static int findIndexOfAllMatches(List<String> stringList, Object[] args) {
+            List<Integer> integerList = new ArrayList<>();
+            for (int i = 0; i < stringList.size(); i++) {
+                for (int j = 0; j < args.length; j++) {
+                    if (verifyAllElementsAreEqual(stringList, args)) {
+                        integerList.add(i);
+                        return i;
+                    }
+                }
+            }
+            return 0;
+        }
+
+
+        This is still not works:
+
+           public static List<String> runSeventeenthExtraBonus(){
+                return findAnyFits(ARGS);
+            }
+
+            private static boolean verifyAnyArgs(List<String> stringList, Object[] args) {
+                for (Object arg : args) {
+                    for (String s : stringList) {
+                        if (arg.equals(s)) {
+                            return true;
+                        }
+                    }
+                }
+                return false;
+            }
+
+            private static List<String> findAnyFits(Object[] args) {
+                List<String> stringList = new ArrayList<>();
+                List<String> stringListNew = new ArrayList<>();
+
+                for (List<FirstName> firstNameList : firstNamesMap.values()) {
+                    for (FirstName firstName : firstNameList) {
+                        if (verifyAnyArgs(firstName.getOrigin(), ARGS)) {
+                            stringList.add(firstName.getFirstName());
+                            // Collections.swap(stringList, findIndex(findAllIndex(firstName.getOrigin(), ARGS)), 0);
+                        }
+                    }
+                }
+                return stringList;
+            }
+
+            private static List<String> verifiedItems(List<String> stringList, Object[] args) {
+                List<String> tempList = new ArrayList<>();
+                for (String string : stringList) {
+                    for (Object item : args) {
+                        if (verifyAllElementsAreEqual(stringList, args)) {
+                            tempList.add(string);
+                        }
+                    }
+                }
+                return tempList;
+            }

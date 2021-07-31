@@ -1,0 +1,22 @@
+Én úgy csinálnám, hogy létrehoznék egy új osztályt, pl. Search néven... vagy ilyesmi. Oda írnék field-eket, hogy String nameSearch, String originSearch stb...
+
+És a feladat megoldása egy ilyen típusú objektummal dolgozna.
+
+public static List<String> getResults( Search search ) {}
+
+Ebbe a metódusba meg vmi olyasmit írnék, hogy...
+if (search.getNameSearch != null) {
+    searchForName(search.getNameSearch) ;
+}
+
+
+És első körben.
+
+Az eredetes sorrendbe tevését meg lehet, hogy úgy csinálnám, hogy először mapbe rendezném a találatokat, ahol a kulcs egy szám - hogy hány egyezés volt... az érték meg az egyezések listája.
+
+Találok olyat, hogy görög - ez egy egyezés, tehát a mapben 1 lesz a kulcs, a találat meg megy a kulcs listájához.
+Aztán meg találok olyat, hogy latin - ez is egy, és igazából a feladat nem kéri, hogy pl. a görög és latin találatok is rendezve legyenek... szóval a csak latinos is mehet a már megtalált görög mellé, az 1 kulcshoz.
+
+De aztán találok olyat, hogy görög és latin is - ez már 2 kulccsal kerül a map-be.
+
+És amikor visszaadom, akkor úgy rendezem, hogy a legmagasabb kulcsú értékek legyenek elöl.

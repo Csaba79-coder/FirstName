@@ -1,0 +1,4 @@
+Calling from Main if Processor is not static!!! avoid the void!!!
+
+new Processor().run(); (this already makes the Instance!!!) --> I can call in one line! (only if methods are in
+different class, if there are more methods --> make Instance!!! works with 1 method / class!

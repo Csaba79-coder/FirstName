@@ -1,0 +1,19 @@
+PETRONELLA,FEMALE,latin,Petronius nemzetségéből származó nő,kő,szikla
+EMMA,FEMALE,NULL,a germán Erm-, Irm- kezdetű női nevek önállósult becézője
+CSABA,MALE,török-magyar,pásztor,kóborló
+FERENC,MALE,francia-latin,francia
+TAMÁS,MALE,arameus-görög,iker,csodálatos
+SOMA,MALE,magyar,som
+DÁVID,MALE,héber,kedvelt,szeretett,egyesítő
+ANNA,FEMALE,héber,kegyelem,Isten kegyelme,kellem,kecsesség,báj
+ERZSÉBET,FEMALE,héber,Isten az én esküvésem
+ROZÁLIA,FEMALE,NULL,a Róza olaszos továbbképzése
+FLÓRA,FEMALE,latin,virág
+MÁRIA,FEMALE,héber-görög-latin,(ismeretlen)
+RUSZLÁM,MALE,orosz,oroszlán
+RUSZLÁNA,FEMALE,török-tatár-orosz,oroszlán
+FATIMA,FEMALE,arab,(ismeretlen) Mohamed legfiatalabb leányának neve
+TASZILÓ,MALE,olasz,(ismeretlen)
+ZSUZSANNA,FEMALE,héber-görög-latin,liliom
+ANNAMÁRIA,FEMALE,NULL,az Anna és a Mária nevek összekapcsolása
+GEMMA,FEMALE,latin,bimbó,egy szem gyümölcs,drágakő,gyöngy,pávaszem

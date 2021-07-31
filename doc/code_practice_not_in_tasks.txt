@@ -1,0 +1,68 @@
+First one to check the names (capital, lower and upper case letters!)
+------------------------------------------------------------------------------------------------------------------------
+Checking the name:
+
+public static String checkName(String name) {
+        String tempName = null;
+        for (List<FirstName> firstNameList : firstNamesMap.values()) {
+            for (FirstName firstName : firstNameList) {
+                if (firstName.getFirstName().toUpperCase().equals(name.toUpperCase())) {
+                    tempName = firstName.getFirstName();
+                }
+            }
+        }
+
+        return tempName;
+    }
+
+    System.out.println(FirstNameController.checkName("CSABA"));
+    System.out.println(FirstNameController.checkName("Csaba"));
+    System.out.println(FirstNameController.checkName("csaba"));
+    System.out.println(FirstNameController.checkName("CsaBa"));
+
+------------------------------------------------------------------------------------------------------------------------
+Printing key and value to a map:
+
+private static void printMap() {
+        for (Gender name: firstNamesMap.keySet()) {
+            String key = name.toString();
+            String value = firstNamesMap.toString();
+            System.out.println(key + ": " + value);
+            System.out.println(key + ": " + value);System.out.println(Arrays.asList(firstNamesMap)); // method 1
+            System.out.println(Collections.singletonList(firstNamesMap)); // method 2
+        }
+    }
+------------------------------------------------------------------------------------------------------------------------
+String toString():
+
+    public String toString() {
+        return ("\nName: " + this.getFirstName() +
+                "\nGender: " + this.getGender().getHUN_NAME() +
+                "\nOrigin: " + Arrays.deepToString(this.origin.toArray()) +
+                "\nMeaning: " + Arrays.deepToString(this.origin.toArray())); // Arrays.toString(Arrays.stream(this.origin.toArray()).toArray())
+    }
+------------------------------------------------------------------------------------------------------------------------
+Returns element of String list 1-by-1
+public static List<String> makesArrayToString(List<String> stringList) {
+        for (String s : stringList) {
+            return Collections.singletonList(s);
+        }
+        return null;
+    }
+------------------------------------------------------------------------------------------------------------------------
+Presentation p = new Presentation(1, "random");
+
+        System.out.println(p);
+
+        List<String> randoms = new ArrayList<>(Arrays.asList("random1", "random2", "random3"));
+
+        StringBuilder b = new StringBuilder();
+        for (String s : randoms) {
+            b.append(s).append(", ");
+        }
+
+        System.out.println(b);
+
+        b.setLength(b.length() - 2); // because this is character!!! coma and space!!!
+        System.out.println(b);
+------------------------------------------------------------------------------------------------------------------------

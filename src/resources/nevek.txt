@@ -1,0 +1,1705 @@
+ABA,MALE,török-magyar,apa
+ABBOT,MALE,héber,apa
+ABBÁS,MALE,latin,apa,apát
+ABDIÁS,MALE,héber-görög,Isten szolgája
+ABELÁRD,MALE,francia,méhész
+ABIGÉL,FEMALE,héber,az apa öröme
+ABOD,MALE,NULL,az Aba képzős származéka
+ABONY,MALE,NULL,az Aba -ny kicsinyítőképzős származéka
+ABOS,MALE,NULL,az Aba -s kicsinyítőképzős származéka
+ABSA,MALE,héber,apa
+ABSOLON,MALE,héber,a béke atyja
+ABÁD,MALE,NULL,az Aba -d kicsinyítőképzős származéka
+ABÉLIA,FEMALE,latin,tölcséres virágú díszcserje
+ACHILLES,MALE,görög-latin,a kígyó fia
+ACSÁD,MALE,magyar,(ismeretlen)
+ADA,FEMALE,héber,felékesített,szép
+ADALBERT,MALE,germán,nemes fény
+ADALBERTA,FEMALE,germán,nemes fény
+ADELAIDA,FEMALE,német-francia-angol,nemes
+ADELINA,FEMALE,német-latin,nemes
+ADELINDA,FEMALE,német-latin,nemes kígyó,nemes pajzs
+ADELMÁR,MALE,germán,nemes nemzetségből való,híres
+ADEODÁT,MALE,latin,Istentől adott
+ADINA,FEMALE,NULL,az Ada német továbbképzése
+ADOLF,MALE,germán,nemes + farkas
+ADOLÁR,MALE,germán,nemes nemzetségből való férfi
+ADONISZ,MALE,görög,csinos,jóképű,gavallér
+ADONY,MALE,magyar,(ismeretlen)
+ADORJÁN,MALE,latin,Hadria városából való férfi
+ADRIENN,FEMALE,latin-francia,hadriai
+ADRIÁN,MALE,NULL,az Adorján eredetibb változata
+ADRIÁNA,FEMALE,latin,hadriai
+ADÉL,FEMALE,német-francia,nemes
+AGAPION,MALE,görög,szeretett
+AGATON,MALE,görög,jó,nemes
+AGENOR,MALE,görög,bátor
+AGGEUS,MALE,héber,ünnepi,vidám
+AGMÁND,MALE,magyar,(ismeretlen)
+AGNELLA,FEMALE,latin,bárányka
+AGNÉTA,FEMALE,NULL,az Ágnes kicsinyített formájából
+AGÁD,MALE,török-magyar,(ismeretlen)
+AGÁTA,FEMALE,görög,a jó
+AHMED,MALE,arab,dicséretre méltó
+AIDA,FEMALE,NULL,Verdi Aida című operája nyomán
+AJNA,FEMALE,finn,szépség,báj,kedvesség
+AJNÁCSKA,FEMALE,magyar,Ajnácskő (régebben Hajnácskő) nevű Gömör megyei vár
+AJTONY,MALE,török-magyar,arany
+AJÁD,MALE,magyar,(ismeretlen)
+AJÁNDÉK,FEMALE,magyar,Isten örömet szerző ajándéka
+AKÁCS,MALE,görög-latin-magyar,ártatlan
+ALADIN,MALE,germán,kis öreg
+ALADÁR,MALE,török,testőrhadnagy
+ALAJOS,MALE,germán-latin,egész + bölcs
+ALBERT,MALE,német,nemes,fényes
+ALBERTA,FEMALE,német,nemes,fényes
+ALBERTINA,FEMALE,német,ragyogó,fényes
+ALBIN,MALE,latin,fehér
+ALDA,FEMALE,germán-olasz,nemes
+ALDÁN,MALE,angol-német,egyik ágon dán származású
+ALDÓ,MALE,NULL,az Ald- kezdetű germán nevek közös becézőjéből önállósult
+ALETTA,FEMALE,német-olasz,nemes
+ALEX,MALE,görög-latin,harcra kész férfi
+ALEXA,FEMALE,NULL,az Alexandra név rövidítése
+ALEXANDRA,FEMALE,görög-latin,harcra kész,az embereket oltalmazó
+ALEXIA,FEMALE,görög-latin,férfias lelkű segítőtárs,védő
+ALFONZ,MALE,germán,nemes,készséges
+ALFONZA,FEMALE,germán,nemes,készséges
+ALFONZINA,FEMALE,germán,nemes,készséges
+ALFRÉD,MALE,germán,tündér,tanács
+ALFRÉDA,FEMALE,germán,tündér,tanács
+ALGERNON,MALE,NULL,angol költői névadás
+ALI,MALE,arab,fenséges,fennkölt
+ALICIA,FEMALE,francia-spanyol,(ismeretlen)
+ALIDA,FEMALE,német,nemes
+ALINA,FEMALE,NULL,az Adelina összevont alakváltozata
+ALINDA,FEMALE,NULL,az Adelinda összevont alakváltozata
+ALINKA,FEMALE,NULL,az Alina önállósult becézője
+ALIZ,FEMALE,héber-germán-francia-angol,nemes,harcos,bölcs
+ALMA,FEMALE,latin,tápláló,felfrissítő
+ALMÁR,MALE,germán,nemessége által híres
+ALOJZIA,FEMALE,német,egész + bölcs
+ALPÁR,MALE,török-magyar,hős férfi
+ALVIN,MALE,germán,nemes barát
+ALVINA,FEMALE,germán,nemes barát
+ALVIÁN,MALE,orosz,(ismeretlen)
+ALÁN,MALE,breton-angol,(bizonytalan)
+ALÁRD,MALE,germán,nemes,kemény
+ALÉNA,FEMALE,NULL,a Magdaléna önállósult rövidítése
+AMADEA,FEMALE,latin,szeresd az Istent!
+AMADIL,FEMALE,spanyol,kedves,szeretett
+AMADÉ,MALE,latin,szeresd az Istent!
+AMAND,MALE,latin,szeretetreméltó
+AMANDA,FEMALE,latin,szeretetreméltó
+AMARANTA,FEMALE,görög,hervadhatatlan
+AMARILLA,FEMALE,görög-latin,fényes
+AMARILLISZ,FEMALE,görög,fényes
+AMBOS,MALE,NULL,az Ambrus régi -s kicsinyítőképzős formája
+AMBRUS,MALE,görög,halhatatlan
+AMBRÓZIA,FEMALE,görög,halhatatlan
+AMELITA,FEMALE,NULL,az Amélia kicsinyítőképzős származéka
+AMETISZT,FEMALE,görög-latin,nem részeg,a részegséget megakadályozó szer
+AMINA,FEMALE,német-olasz,védelem
+AMÁBEL,FEMALE,latin-angol,szeretetreméltó
+AMÁLIA,FEMALE,germán,az Amálok (gót királyi család) + védelem
+AMÁTA,FEMALE,latin,kedves,szeretett
+AMÁZIA,FEMALE,latin,kedves
+AMÉLIA,FEMALE,NULL,az Amália névből
+ANASZTÁZ,MALE,görög,a feltámadott
+ANASZTÁZIA,FEMALE,görög,a feltámadott
+ANATOL,MALE,görög,napkeleti országból való
+ANDOR,MALE,görög,férfi,férfias
+ANDOS,MALE,NULL,az András régi becéző formájából önállósult
+ANDREA,FEMALE,görög-latin,férfi,férfias
+ANDRÁS,MALE,görög,férfi,férfias
+ANDRÉ,MALE,görög,férfi,férfias
+ANETT,FEMALE,NULL,az Anna önállósult francia becézője
+ANETTA,FEMALE,NULL,az Anna olaszos-latinos kicsinyített formája
+ANGELIKA,FEMALE,latin,angyali,angyalhoz hasonló
+ANGELINA,FEMALE,NULL,az Angéla kicsinyítő továbbképzése
+ANGELUS,MALE,görög-latin,Isten követe,angyal
+ANGUSZ,MALE,kelta,kivételes,kiváló,kiemelkedő
+ANGYALKA,FEMALE,NULL,az Angéla, Angelika régi magyaros formája
+ANGÉLA,FEMALE,görög-latin,angyal,követ,hírnök
+ANIKÓ,FEMALE,héber-székely,bájos,kedves,Isten kegyelme
+ANITA,FEMALE,NULL,az Anna és a Juanita (magyarul: Johanna) spanyol becézőjéből
+ANNA,FEMALE,héber,kegyelem,Isten kegyelme,kellem,kecsesség,báj
+ANNABELLA,FEMALE,NULL,az Anna és a Szibilla vegyülése
+ANNAMÁRIA,FEMALE,NULL,az Anna és a Mária nevek összekapcsolása
+ANTAL,MALE,latin,herceg,fejedelem,elöljáró
+ANTIGON,MALE,görög,nemessége által kiemelkedő
+ANTIGONÉ,FEMALE,görög,nemzettsége által kiváló,kiemelkedő
+ANTONELLA,FEMALE,latin-olasz,herceg,fejedelem,elöljáró
+ANTONIETTA,FEMALE,NULL,az Antónia olasz kicsinyítőképzős származéka
+ANTOS,MALE,NULL,az Antal régi -s kicsinyítőképzős formája
+ANTÓNIA,FEMALE,latin,herceg,fejedelem,elöljáró
+ANZELM,MALE,germán,az istenség védelme alatt álló
+ANZELMA,FEMALE,latin,az istenség védelme alatt álló
+APOLLINÁR,MALE,latin,Apollóhoz hasonló
+APOLLÓNIA,FEMALE,görög-latin,Apollónak szentelt
+APOR,MALE,magyar,(bizonytalan)
+APOSTOL,MALE,görög,követ,küldött,apostol
+APRÓD,MALE,magyar,apród,fegyverhordozó
+ARABELLA,FEMALE,spanyol,kis arab nő
+ARANKA,FEMALE,magyar,az arany szó kicsinyítőképzős származéka
+ARANY,FEMALE,magyar,aranyos,aranyműves
+ARCHIBALD,MALE,germán,igazi,merész,hős férfi
+ARIADNÉ,FEMALE,görög,nagyon tiszteletreméltó,szent
+ARIANNA,FEMALE,NULL,az Ariadné olasz formája
+ARIEL,MALE,héber,Isten oroszlánja
+ARIELLA,FEMALE,héber-latin-olasz,Isten oroszlánja,Isten tűzhelye
+ARIKA,FEMALE,NULL,a török eredetű Réka alakváltozata
+ARION,MALE,görög,a gyors,az erős
+ARISZTID,MALE,görög-latin,nemes származású
+ARIÁN,MALE,latin,hadriai
+ARKÁD,MALE,görög-latin,Árkádiából való férfi
+ARLEN,MALE,ír-gall,biztosíték,zálog,ígéret
+ARMAND,MALE,NULL,Herman francia megfelelője
+ARMANDA,FEMALE,latin-germán-francia,hadba menő
+ARMANDINA,FEMALE,NULL,az Armanda -ina képzős származéka
+ARNOLD,MALE,germán,sas,uralkodó
+ARNOLDA,FEMALE,latin,sas,uralkodó
+ARNÓT,MALE,germán,sas,uralkodó
+ARSZLÁN,MALE,török-magyar,oroszlán
+ARTEMISZ,FEMALE,görög,friss,egészséges
+ARTEMON,MALE,görög,ép,egészséges
+ARTÚR,MALE,kelta-angol,(ismeretlen)
+ARVID,MALE,svéd,sas a viharban
+ARZÉN,MALE,görög-latin,erőteljes,férfias
+ARÉTÁSZ,MALE,görög,keresztény királyok neveiből
+ASZPÁZIA,FEMALE,görög,kedvelt
+ASZTER,MALE,görög,csillag
+ASZTRID,FEMALE,ósvéd,akit az istenek jóindulata elvarázsolt
+ATALA,FEMALE,NULL,az Atália név alakváltozata
+ATALANTA,FEMALE,görög,mondabeli vadásznő nevéből
+ATANÁZ,MALE,görög,halhatatlan
+ATANÁZIA,FEMALE,görög-latin,halhatatlan
+ATILLA,MALE,gót,szeretett atyánk
+ATLASZ,MALE,görög-arab,szövetfajta,sima
+ATOS,MALE,magyar,apa
+ATTILA,MALE,gót,szeretett apánk
+ATÁD,MALE,török-magyar,apa
+ATÁLIA,FEMALE,héber,Isten fenséges
+AUGUSZTA,FEMALE,latin,fenséges,fennkölt
+AUGUSZTINA,FEMALE,latin,fenséges,fennkölt
+AURA,FEMALE,latin-angol,aranyos
+AURÉL,MALE,latin,aranyos
+AURÉLIA,FEMALE,latin,aranyos
+AURÉLIÁN,MALE,latin,az Aurelius nemzetséghez tartozó férfi
+AURÓRA,FEMALE,görög,hajnalpír,hajnal,hajnalhasadás
+AVARKA,FEMALE,magyar,a szó maga
+AVENÁR,MALE,héber,apa,szövétnek
+AXEL,MALE,héber-dán-svéd,a béke atyja
+AZÁLEA,FEMALE,latin-magyar,a virág neve
+AZÁR,MALE,héber-görög,akit Jehova segít
+ÁBEL,MALE,héber,lehelet,mulandóság
+ÁBRAHÁM,MALE,héber,a tömeg,a sokaság atyja
+ÁBRIS,MALE,NULL,az Ábrahám becézett, kicsinyítőképzős alakjából
+ÁDÁM,MALE,sumér-héber,atyám
+ÁGNES,FEMALE,görög,szent,tiszta,szemérmes,érintetlen,szűzies,tartózkodó
+ÁGOST,MALE,latin,fenséges,fennkölt
+ÁGOSTA,FEMALE,NULL,az Auguszta régi magyar formája
+ÁGOSTON,MALE,latin,fenséges,fennkölt
+ÁGOTA,FEMALE,NULL,az Agáta régi magyar formája
+ÁHIM,MALE,héber,Jahve felkelt
+ÁKOS,MALE,török-magyar,fehér sólyom
+ÁLDOR,MALE,germán,nemes uralkodó
+ÁLDÁSKA,FEMALE,magyar,áldás
+ÁLMOS,MALE,magyar,álombeli,megálmodott
+ÁMON,MALE,héber,igazmondó,művész
+ÁMOS,MALE,héber,terhet vivő,megrakott
+ÁNYOS,MALE,görög-latin,(ismeretlen)
+ÁRKOS,MALE,magyar,(ismeretlen)
+ÁRMIN,MALE,latin,hadi férfi
+ÁRON,MALE,héber,ihletett,tisztánlátó
+ÁRPÁD,MALE,magyar,árpa
+ÁRVÁCSKA,FEMALE,magyar,a virág neve
+BABETT,FEMALE,héber-görög-német-francia,idegen,külföldi
+BAGAMÉR,MALE,szláv,isten,béke
+BAJNOK,MALE,magyar,a szó maga
+BAJÁN,MALE,török-magyar,gazdag
+BALABÁN,MALE,török-magyar,karvaly
+BALAMBÉR,MALE,vitás,(ismeretlen)
+BALDVIN,MALE,német-angol,bátor barát
+BALDÓ,MALE,német,merész
+BALTAZÁR,MALE,asszír-babilóniai-német,Baal isten óvja életét
+BALÁR,MALE,magyar,bolgár
+BALÁZS,MALE,latin-magyar,királyi
+BANDÓ,MALE,NULL,az András önállósult becézője
+BARABÁS,MALE,görög-szláv,Abbasz fia
+BARBARA,FEMALE,görög,idegen,külföldi nő
+BARDÓ,MALE,germán,csatabárd,farkas
+BARNA,MALE,NULL,a Barnabás önállósult magyar rövidülése
+BARNABÁS,MALE,arámi-héber,a vigasztalás fia
+BARS,MALE,magyar,bors
+BARTAL,MALE,arámeus-görög-latin,Ptolemaiosz fia
+BARTOLÓMEÓ,MALE,héber,szántóvető,földműves
+BARTOS,MALE,NULL,a Bertalan régi magyar Bartalom formájából
+BARÓT,MALE,török-magyar,menyét,nyest
+BATÓ,MALE,magyar,buzogány
+BAZIL,MALE,görög-latin,királyi
+BAZSÓ,MALE,NULL,a Bazil régi magyar formájából
+BEA,FEMALE,NULL,a Beáta és a Beatrix nevek rövidüléséből
+BEATRIX,FEMALE,latin,boldogságot hozó
+BECSE,MALE,török-magyar,kánya
+BEDŐ,MALE,magyar,(ismeretlen)
+BEGÓNIA,FEMALE,magyar,a virág maga
+BEKÉNY,MALE,magyar,(ismeretlen)
+BEKŐ,MALE,magyar,(ismeretlen)
+BELINDA,FEMALE,germán,kígyó (mint a rejtett tudás jelképe)
+BELIZÁR,MALE,germán,egy bizánci hadvezér nevéből
+BELIÁN,MALE,magyar,(ismeretlen)
+BELLA,FEMALE,olasz-spanyol,szép
+BENCE,MALE,latin,győztes
+BENDE,MALE,NULL,a Benedek becéző rövidüléséből
+BENDEGÚZ,MALE,hun-magyar,Attila hun uralkodó atyjának nevéből
+BENE,MALE,NULL,a Benedek régi magyar becézőjéből
+BENEDEK,MALE,latin,áldott
+BENEDETTA,FEMALE,NULL,a Benedikta olasz eredetű változata
+BENEDIKTA,FEMALE,latin,áldott
+BENIGNA,FEMALE,latin,jóságos,kegyes,jóakaró
+BENIGNUSZ,MALE,latin,jóságos,kegyes,jóakaró
+BENJAMINA,FEMALE,héber,a szerencse fia
+BENJÁMIN,MALE,héber,a szerencse fia
+BENKE,MALE,NULL,a Benedek és a Benjámin közös becézőjéből
+BENKŐ,MALE,NULL,a Benedek és a Benjámin közös becézőjéből
+BENÁTA,FEMALE,NULL,a Benedikta név becézőjéből
+BENŐ,MALE,NULL,a Benedek és a Benjámin közös becézőjéből
+BERCEL,MALE,bolgár-kabar-magyar,bércen és dombos-tüskés területen túli rész
+BERENGÁR,MALE,germán,medve,lándzsa
+BERENIKÉ,FEMALE,görög-makedón,győzelmet,diadalt hozó
+BERGER,MALE,francia,pásztor,juhász
+BERILL,FEMALE,óind-angol,tengerzöld színű indiai drágakő
+BERISZLÓ,MALE,szláv-magyar,Pribina dicsősége
+BERNADETT,FEMALE,germán-francia,erős,mint a medve
+BERNARDA,FEMALE,germán-latin,erős,mint a medve
+BERNÁT,MALE,germán,erős mint a medve
+BERTA,FEMALE,német,Perchta istennő nevéből
+BERTALAN,MALE,arámeus-görög-latin,Ptolemaiosz fia
+BERTOLD,MALE,germán,pompával uralkodó
+BERTOLDA,FEMALE,germán,pompával uralkodó
+BERTRAM,MALE,germán,ragyogó,holló
+BERÉNY,MALE,magyar,régi magyar törzsnévből
+BESE,MALE,török-magyar,kánya
+BETTA,FEMALE,NULL,a Babett, Berta és Erzsébet neveknek becézőjéből alakult
+BETTINA,FEMALE,NULL,a Betta név nőiesítő képzővel való továbbképzése
+BEÁTA,FEMALE,latin,boldog
+BIANKA,FEMALE,NULL,a Blanka név olasz formájából
+BIBIÁNA,FEMALE,NULL,a Viviána név alakváltozata
+BLANDINA,FEMALE,latin,hízelgő,kedves,barátságos,szíves,nyájas
+BLANKA,FEMALE,középlatin-spanyol,fényes,ragyogó,tiszta
+BOCSÁRD,MALE,német-magyar,erős védelmező
+BOD,MALE,török-magyar,ág,oldalág
+BODOMÉR,MALE,török-magyar,(ismeretlen)
+BODONY,MALE,magyar,ág,oldalág
+BODOR,MALE,magyar,göndör
+BOGDÁN,MALE,szláv,Isten ajándéka
+BOGLÁRKA,FEMALE,magyar,fémveretes,ékköves,gyöngyös,zománcos,gomb alakú ékítmény
+BOGÁRKA,FEMALE,magyar,a szó maga
+BOGÁT,MALE,szláv-magyar,gazdag
+BOGÁTA,FEMALE,szláv-magyar-latin,gazdag
+BOLDA,FEMALE,magyar,boldog
+BOLDIZSÁR,MALE,asszír-babilóniai-német-magyar,Baal isten óvja életét
+BONAVENTÚRA,FEMALE,latin,jó jövendő
+BONIFÁC,MALE,latin,a jó sors embere
+BORBÁLA,FEMALE,NULL,a Barbara magyaros módosulata
+BORBÁS,MALE,NULL,a Barabás alakváltozata
+BORISKA,FEMALE,NULL,a Borbála régi magyar becézőjéből önállósult
+BORISZ,MALE,orosz-,harc,harcos
+BORS,MALE,magyar,a szó maga
+BORSIKA,FEMALE,magyar,a virág maga
+BORÓKA,FEMALE,NULL,a Borbála régi magyar becézőjéből önállósult
+BOTOND,MALE,magyar,buzogányos harcos
+BOTTYÁN,MALE,NULL,Bothianus hitvalló nevéből
+BOTÁR,MALE,magyar,(ismeretlen)
+BOZSIDÁR,MALE,szláv,Isten ajándéka
+BOÁZ,MALE,héber,erős
+BRIGITTA,FEMALE,óír,erős,erényes
+BRÚNÓ,MALE,ófelnémet,barna,barnamedve
+BRÚTUSZ,MALE,latin,nehézkes,esetlen,együgyű
+BUDA,MALE,magyar,(bizonytalan)
+BULCSÚ,MALE,török-magyar,vért keverő,vért kibocsátó
+BUZÁD,MALE,magyar,búza
+BÁCS,MALE,török-magyar,méltóságnév
+BÁLINT,MALE,latin,erős,egészséges
+BÁN,MALE,magyar,méltóságnév
+BÁNK,MALE,NULL,a Bán magyar méltóságnév -k kicsinyítőképzős származéka
+BÁNOS,MALE,NULL,a Bán kicsinyítőképzős származéka
+BÁRSONYKA,FEMALE,magyar,bársony
+BÁTONY,MALE,magyar,(ismeretlen)
+BÁTOR,MALE,török-magyar,a szó maga
+BÉKE,FEMALE,magyar,a szó maga
+BÉLA,MALE,török,előkelő
+BÉNI,MALE,NULL,a Benjámin régi magyar formájának rövidüléséből
+BÍBORKA,FEMALE,magyar,bíbor
+BÓDOG,MALE,magyar,boldog,gazdag
+BÓNIS,MALE,NULL,a Bonifác régi magyar becézőjéből
+BÖKÉNY,MALE,török-magyar,erdős,erdős domb,dombhát
+CECIL,MALE,NULL,a Cecilián becéző rövidüléséből önállósult
+CECILIÁN,MALE,latin-francia,a Caecilius nemzetséghez tartozó férfi,vak
+CECÍLIA,FEMALE,latin,a Caecilius nemzetséghez tartozó
+CELERINA,FEMALE,latin,gyors,sebes,serény
+CELESZTA,FEMALE,NULL,a Celesztina név alakváltozata
+CELESZTIN,MALE,latin,az égnek és Istennek szentelt
+CELESZTINA,FEMALE,latin,az égnek,Istennek szentelt
+CELINA,FEMALE,NULL,a Marcellina és a Szelina nevek egybeesése
+CEZARINA,FEMALE,latin,hosszú,dús hajú
+CICELLE,FEMALE,NULL,a Cecília régi magyaros alakváltozata
+CICERÓ,MALE,latin,borsó
+CIKLÁMEN,FEMALE,magyar,a virág maga
+CINNIA,FEMALE,magyar,a virág maga (rézvirág)
+CINTIA,FEMALE,görög,Artemisz istennő mellékneve
+CIPRIÁN,MALE,latin,Ciprus szigetéről származó férfi
+CIPRIÁNA,FEMALE,latin,ciprusi
+CIRILL,MALE,görög-latin,az Úrhoz tartozó,az Istennek szentelt
+CIRJÉK,MALE,görög,az uralkodóhoz tartozó
+CSABA,MALE,török-magyar,pásztor,kóborló
+CSANÁD,MALE,magyar,(ismeretlen)
+CSATÁD,MALE,magyar,csata
+CSATÁR,MALE,magyar,a várjobbágyok egyik fajtája
+CSATÓ,MALE,magyar,csat
+CSEGŐ,MALE,magyar,(ismeretlen)
+CSEKE,MALE,török-magyar,húzó,vivő
+CSENDIKE,FEMALE,magyar,csendes
+CSENGE,FEMALE,magyar,(ismeretlen)
+CSENGER,MALE,magyar,(ismeretlen)
+CSEPEL,MALE,magyar,sarjadékerdő
+CSEPERKE,FEMALE,magyar,csiperke
+CSILLA,FEMALE,Vörösmarty,káka
+CSILLAG,FEMALE,magyar,a szó maga
+CSINSZKA,FEMALE,NULL,Ady Endre játékos névalkotása (csacsi-csacsinszka)
+CSOBÁD,MALE,NULL,a Csaba kicsinyítőképzős származéka
+CSOBÁN,MALE,török-magyar,pásztor
+CSOMBOR,MALE,magyar,a szó maga
+CSONGOR,MALE,török-magyar,vadászmadár
+CSÁK,MALE,török-magyar,ütő
+CSÁT,MALE,magyar,(ismeretlen)
+CSÉPÁN,MALE,NULL,az István szláv eredetű, régi magyar alakváltozata
+CSÖRSZ,MALE,szláv,ördög
+CÉLIA,FEMALE,NULL,a Cecília, Marcella és Sejla nevek önállósult indoeurópai becézőjéből
+CÉZÁR,MALE,etruszk-latin,hosszú hajú,dús hajú,vág
+CÍRUS,MALE,perzsa-görög-latin,uralkodó,Nap
+DAGOBERT,MALE,germán,ragyogó,mint a nap
+DAGOMÉR,MALE,germán,híres,mint a ragyogó nap
+DALIBOR,MALE,cseh,(ismeretlen)
+DALIDA,FEMALE,NULL,Dalida olasz származású, francia énekesnő művésznevéből
+DALMA,FEMALE,NULL,Vörösmarty Mihály névalkotása a dal szóból
+DALTON,MALE,óangol,völgyből való
+DAMJÁN,MALE,görög-latin,a népből származó,legyőző
+DAMOS,MALE,NULL,a Damján rövidített és kicsinyítőképzős alakváltozata
+DAMÁZ,MALE,görög,szelídítő,legyőző
+DANIELLA,FEMALE,héber,Isten a bírám
+DANILÓ,MALE,NULL,a Dániel szláv megfelelője
+DANTE,MALE,latin,kitartó,állhatatos
+DARINKA,FEMALE,szláv-magyar,ajándékocska
+DEA,FEMALE,latin,Istentől adott,istennő
+DEBÓRA,FEMALE,héber,méh
+DELI,MALE,magyar,dalia,vitéz
+DELILA,FEMALE,héber,epedő,sóvárgó,finom,érzékeny
+DELINKE,FEMALE,magyar,szép termetű,deli,nimfa
+DEMETER,MALE,görög-szláv,Démétérnek,a föld istennőjének ajánlott
+DEMETRIA,FEMALE,görög-szláv,Démétérnek,a föld istennőjének ajánlott
+DEMJÉN,MALE,NULL,a Damján önállósult alakváltozata
+DEMÉNY,MALE,NULL,a Demjén régi magyar alakváltozata
+DEODÁT,MALE,NULL,az Adeodát rövidüléséből önállósult
+DETRE,MALE,germán,nép + hatalmas
+DEZDEMÓNA,FEMALE,NULL,Verdi Otelló című operája nyomán (Otelló feleségének neve)
+DEZIDERÁTA,FEMALE,görög-latin,kívánt,óhajtott (gyermek)
+DEZSÉR,MALE,NULL,a Dezső régi magyar alakja
+DEZSŐ,MALE,latin-magyar,óhajtott,kívánt gyermek
+DINA,FEMALE,héber,ítélet
+DIOMÉD,MALE,görög,Istentől elhatározott,Isten akarata szerint való
+DITMÁR,MALE,germán,nép + híres
+DITTA,FEMALE,NULL,az Edit és Judit önállósult becézője
+DIÁNA,FEMALE,római,ragyogó
+DOLLI,FEMALE,angol,a Dorottya és a Dóra önállósult becézője
+DOMICIÁN,MALE,latin,legyőző,meghódító
+DOMINIK,MALE,latin-szláv,az Istenhez tartozó,az Istennek szentelt
+DOMINIKA,FEMALE,latin,az Úrhoz,Istenhez tartozó
+DOMITILLA,FEMALE,latin-olasz,a Domitius nemzetséghez tartozó
+DOMOKOS,MALE,NULL,a Domonkos önállósult alakváltozata
+DOMONKOS,MALE,latin,az Úrhoz tartozó,Istennek szentelt
+DOMOS,MALE,NULL,a Domonkos, Domokos rövidült, kicsinyítőképzős származéka
+DOMÁN,MALE,kun-magyar,köd
+DONALD,MALE,skót-kelta,világ + hatalmas,bátor + férfias
+DONATELLA,FEMALE,latin-olasz,Istentől ajándékozott
+DONÁT,MALE,latin,Istentől ajándékozott
+DONÁTA,FEMALE,latin,Istentől ajándékozott
+DORINA,FEMALE,NULL,a Dorottya névnek csonkított és kicsinyítőképzős formája
+DORISZ,FEMALE,görög,lándzsa
+DORIÁN,MALE,angol,dór férfi
+DORMÁN,MALE,besenyő,(ismeretlen)
+DOROTTYA,FEMALE,görög,Isten ajándéka
+DUKÁSZ,MALE,görög,vezér,vezető
+DULCINEA,FEMALE,NULL,Cervantes Saavedra spanyol író Don Quijote regénye nyomán, édes
+DUSÁN,MALE,délszláv,lélek
+DÁLIA,FEMALE,Andreas,a virág maga
+DÁNIEL,MALE,héber,Isten a bírám
+DÁNOS,MALE,NULL,a Dániel régi magyar kicsinyítőképzős származéka
+DÁRIUS,MALE,latin-perzsa-görög,hatalmas
+DÁVID,MALE,héber,kedvelt,szeretett,egyesítő
+DÉLIA,FEMALE,görög,Artemis istennő mellékneve,aki Délosz szigetén született
+DÉLIBÁB,FEMALE,magyar,a szó maga
+DÉNES,MALE,görög,Dionüszosznak,a bor és a szőlő istenének ajánlott
+DÉVALD,MALE,germán,nép + merész
+DÉZI,FEMALE,angol,százszorszép
+DÓRA,FEMALE,NULL,a Dorottya önállósult becézője
+DÖME,MALE,NULL,a Dömötör rövidült formájának kicsinyítőképzős származéka
+DÖMÖTÖR,MALE,NULL,a Demeter magyar alakváltozata
+DÖNÍZ,FEMALE,görög-francia,Dionűszosz Istennek ajánlott
+EDDA,FEMALE,NULL,az Éda név alakváltozata
+EDE,MALE,NULL,az Edvárd német rövidüléséből önállósult
+EDGÁR,MALE,ószász-angol,vagyon + dárda
+EDINA,FEMALE,germán,Hedin városából való,állatbőr,bunda,
+EDIT,FEMALE,germán,öröklött birtok,örökség,birtok,vagyon + harc
+EDIZON,MALE,angolszász,Ádám leszármazottja
+EDMOND,MALE,germán,az öröklött birtokot megőrző
+EDNA,FEMALE,ószövetségi,(ismeretlen)
+EDVARDA,FEMALE,germán-latin,a birtokát megőrző
+EDVIN,MALE,germán,az örökös barátja
+EDVINA,FEMALE,germán-latin,az örökös barátja
+EDVÁRD,MALE,germán,a birtokát megőrző
+EDÖMÉR,MALE,kun,(ismeretlen)
+EFRAIM,MALE,héber,kettős termés,kettős örökség
+EGBERT,MALE,germán,kard + híres,fényes
+EGBERTA,FEMALE,germán-latin,kard + híres,fényes
+EGMONT,MALE,germán,fegyver + védő
+EGON,MALE,NULL,az Egbert/Egmont stb. ószász és középnémet bezézőjéből önállósult
+EGYED,MALE,görög-magyar,pajzshordozó
+ELEK,MALE,magyar,(ismeretlen)
+ELEKTRA,FEMALE,görög,arany-ezüst ötvözet
+ELEMÉR,MALE,vitás,(ismeretlen)
+ELEONÓRA,FEMALE,arab,Isten az én világosságom
+ELIHU,MALE,héber,Isten az Úr
+ELINA,FEMALE,NULL,a Heléna spanyol-olasz formájából
+ELIZ,FEMALE,NULL,az Erzsébet (Elisabeth) önállósult rövidülése
+ELIZA,FEMALE,NULL,az Erzsébet (Elisabeth) önállósult rövidülése
+ELIZEUS,MALE,héber,Isten a szabadulás
+ELIÁNA,FEMALE,francia-latin,Jahve az én Istenem
+ELLA,FEMALE,NULL,az Erzsébet (Elisabeth) és a Heléna női nevek önállósult becézője
+ELLINA,FEMALE,szláv,hellén,görög
+ELLÁK,MALE,hun,(ismeretlen)
+ELMA,FEMALE,NULL,az Alma név alakváltozata
+ELMIRA,FEMALE,spanyol,fenséges,fennkölt,hercegnő
+ELMÁR,MALE,germán,mindenütt híres
+ELMÓ,MALE,NULL,az Elmár becézőjéből önállósult
+ELTON,MALE,angol,öreg faluból való
+ELVIRA,FEMALE,nyugati,akit az ereklye megvéd
+ELZA,FEMALE,NULL,az Erzsébet (Elisabeth) német rövidülése
+ELÍGIUSZ,MALE,latin,kiválasztott
+ELŐD,MALE,magyar,elsőszülött,ős
+EMANUÉLA,FEMALE,héber-latin,velünk az Isten
+EMERENCIA,FEMALE,latin,érdemekben gazdag
+EMERITA,FEMALE,latin,érdemes
+EMESE,FEMALE,magyar,anyácska
+EMIL,MALE,latin,versengő,vetélkedő
+EMILIÁN,MALE,latin,az Aemilius nemzetségből származó férfi
+EMILIÁNA,FEMALE,latin,az Aemelius nemzetségből való
+EMMA,FEMALE,NULL,a germán Erm-, Irm- kezdetű női nevek önállósult becézője
+EMÁNUEL,MALE,héber,velünk az Isten
+EMÍLIA,FEMALE,latin,versengő,vetélkedő
+EMŐD,MALE,magyar,anyácska
+EMŐKE,FEMALE,magyar,anyatejjel táplált újszülött,bébi
+ENCIÁNA,FEMALE,latin,tárnics virág
+ENDRE,MALE,német-szláv-magyar,férfi,férfias
+ENGELBERT,MALE,germán,híres az angolok között
+ENGELHARD,MALE,germán,vakmerő az angolok között
+ENID,FEMALE,kelta-walesi-angol,élet,lélek
+ENIKŐ,FEMALE,NULL,Vörösmarty Mihály alkotása,ünő, szarvastehén
+ENNA,FEMALE,fríz,kard
+EPERKE,FEMALE,magyar,a szó maga
+ERAZMUS,MALE,görög-latin-holland,óhajt,kíván
+ERHARD,MALE,germán,becsület + erős
+ERIK,MALE,alnémet-északi,nagyrabecsült
+ERIKA,FEMALE,germán-latin,nagyrabecsült
+ERINA,FEMALE,NULL,az Irén szláv alakváltozata
+ERMELINDA,FEMALE,germán,hermion néptörzshöz tartozó
+ERNA,FEMALE,ófelnémet,komoly,határozott,különösen a harcban
+ERNELLA,FEMALE,NULL,az Erna olasz kicsinyítőképzős származéka
+ERNESZTA,FEMALE,német-latin,komoly,határozott
+ERNESZTINA,FEMALE,német,komoly,határozott
+ERNYE,MALE,török-magyar,férfi
+ERNÁK,MALE,hun,(ismeretlen)
+ERNŐ,MALE,ófelnémet,komoly,határozott
+ERVIN,MALE,germán,a hadsereg barátja,vadkan erejű jó barát
+ERVINA,FEMALE,germán-latin,a hadsereg barátja,vadkan erejű jó barát
+ERZSÉBET,FEMALE,héber,Isten az én esküvésem
+ESTILLA,FEMALE,NULL,Vörösmarty Mihály névalkotása
+ESZMERALDA,FEMALE,szemita-görög-spanyol,ragyogó,csillogó,smaragd
+ESZTELLA,FEMALE,NULL,a Stella spanyol változata
+ESZTER,FEMALE,perzsa,csillag,bájos fiatal lány
+ETA,FEMALE,NULL,az Etelka rövidített és -a kicsinyítő képzővel ellátott származéka
+ETE,MALE,magyar,(bizonytalan)
+ETEL,FEMALE,angol,nemesi származású
+ETELE,MALE,hun-magyar,szeretett apánk
+ETELKA,FEMALE,NULL,Dugonics András alkotta az Etele férfinévből
+EUDOXIA,FEMALE,görög,jó hírnévnek örvendő,tisztelt,megbecsült
+EUFROZINA,FEMALE,görög-latin,vidám
+EUFÉMIA,FEMALE,görög,a jót emlegető,szerencsét kívánó,jó hírnévnek örvendő
+EUGÉN,MALE,görög-német,előkelő,nemes nemzetségből való
+EUGÉNIA,FEMALE,görög-latin-német,előkelő,jeles nemzetségből való
+EULÁLIA,FEMALE,görög-latin,jól,szépen,ékesen beszélő
+EUSZTÁK,MALE,görög-latin,dús kalászú,termékeny
+EUTIM,MALE,görög,nemes + tisztelet
+EVARISZT,MALE,görög,derék,ügyes,legjobb
+EVELIN,FEMALE,kelta-skót,kellemes,kedves,tetszetős,jókedvű
+EVELINA,FEMALE,NULL,az Éva továbbképzett származéka
+EVETKE,FEMALE,magyar,mókus
+EZÉKIEL,MALE,héber,az Isten erős,hatalmas
+ÉDA,FEMALE,germán,nemesi származású
+ÉDUA,FEMALE,kun,a hold fölkel
+ÉLETKE,FEMALE,magyar,a szó maga
+ÉLIÁS,MALE,héber-görög-latin,Jahve az én Istenem
+ÉNEÁS,MALE,görög-magyar,mondai hős nevéből
+ÉNOK,MALE,héber,a felszentelt
+ÉVA,FEMALE,héber,élet,életet adó
+ÉVALD,MALE,germán,jog és törvény szerint uralkodó
+ÉZSAIÁS,MALE,héber,Isten az üdvösség
+ÉZSAU,MALE,héber,szőrös,bozontos,nyers,durva
+FABIÁNA,FEMALE,latin,a Fabius nemzetséghez tartozó
+FABÓ,MALE,NULL,a Fábián régi magyar kicsinyítőképzős származéka
+FANNI,FEMALE,NULL,a Franciska (Frances) becézője
+FARKAS,MALE,magyar,a szó maga
+FATIMA,FEMALE,arab,(ismeretlen) Mohamed legfiatalabb leányának neve
+FATIME,FEMALE,NULL,a Fatima alakváltozata
+FAUSZTINA,FEMALE,latin,szerencsés
+FAUSZTUSZ,MALE,latin,szerencsés
+FEDOR,MALE,NULL,a Teodor orosz megfelelőjéből
+FEDÓRA,FEMALE,görög-latin,Isten ajándéka
+FEHÉRKE,FEMALE,magyar,a szó maga
+FELICIÁN,MALE,latin,boldog
+FELICIÁNA,FEMALE,latin,boldog
+FELÍCIA,FEMALE,latin,boldog
+FERDINÁND,MALE,germán,béke + merész
+FERENC,MALE,francia-latin,francia
+FERNANDA,FEMALE,germán-spanyol-latin,béke + merész
+FIAMETTA,FEMALE,olasz,lángocska
+FIDÉL,MALE,latin,hűséges
+FIDÉLIA,FEMALE,latin,hűséges
+FILEMON,MALE,görög,barátságos,nyájas,szíves érzelmű
+FILIBERT,MALE,germán,messze földön híres
+FILIPPA,FEMALE,görög-latin,lókedvelő
+FILOMÉLA,FEMALE,görög,az éneklést kedvelő,dalos kedvű
+FILOMÉN,MALE,görög,szeretett
+FILOMÉNA,FEMALE,NULL,a Filoméla olasz változata
+FILOTEA,FEMALE,görög,az Istent szerető nő
+FIORELLA,FEMALE,olasz,virágocska
+FIRMIN,MALE,latin,szilárd jellemű
+FLORENCIA,FEMALE,latin,virágzó,hatalmas,tekintélyes,kitűnő
+FLORENTIN,MALE,latin,virágzó,tekintélyes
+FLORENTINA,FEMALE,latin,virágzó,hatalmas,tekintélyes,kitűnő
+FLORINA,FEMALE,latin,tekintélyes,hatalmas
+FLÁVIA,FEMALE,latin,a Flavius nemzetséghez tartozó
+FLÓRA,FEMALE,latin,virág
+FLÓRIS,MALE,NULL,a Flórián -s kicsinyítőképzős származéka
+FLÓRIÁN,MALE,latin,virágos,virágzó
+FODOR,MALE,magyar,göndör hajú
+FOLKUS,MALE,latin-francia,vízityúk,szárcsa
+FORTUNA,FEMALE,olasz,a szerencse istennője
+FORTUNÁT,MALE,latin,boldog
+FRANCISKA,FEMALE,latin,francia
+FREDERIK,MALE,német,békés,nyugodt
+FRIDA,FEMALE,német,béke,védelem,körülkerített terület
+FRIDERIKA,FEMALE,német,béke + hatalom
+FRIDOLIN,MALE,germán,Isten oltalma alatt álló
+FRIGYES,MALE,német-magyar,béke + hatalom
+FRUZSINA,FEMALE,görög-magyar,vidám
+FULVIA,FEMALE,latin,sárga,sötétszőke
+FÁBIUSZ,MALE,latin,babtermelő,Fabia városából való
+FÁBIÁN,MALE,latin,a Fabius nemzetséghez tartozó férfi
+FÉDRA,FEMALE,latin,(ismeretlen)
+FÉLIX,MALE,latin,boldog
+FÓRIS,MALE,NULL,a Flóris régi magyar változata
+FÜLÖP,MALE,görög,lókedvelő
+FÜRTIKE,FEMALE,magyar,fürtvirág
+FÜZIKE,FEMALE,magyar,növénynév
+GABRIELLA,FEMALE,héber-latin,Isten embere,Isten bajnoka
+GAJÁNA,FEMALE,orosz,föld
+GALAMB,FEMALE,magyar,a szó maga
+GALATEA,FEMALE,görög,tejfehér bőrű nő
+GALINA,FEMALE,görög-orosz,nyugalom,csend,béke
+GARA,MALE,török,héja
+GARDÉNIA,FEMALE,latin,a növény maga
+GASZTON,MALE,germán,(bizonytalan)
+GAZSÓ,MALE,NULL,a Gáspár régi magyar -ó kicsinyítőképzős alakjából
+GEDEON,MALE,héber,harcos,vágó,romboló
+GEDŐ,MALE,NULL,a Gedeon régi magyar -ő kicsinyítőképzős származéka
+GELLÉN,MALE,NULL,a Kilián régi magyar változata
+GELLÉRT,MALE,német,gerely + kemény
+GEMELLA,FEMALE,latin,leánygyermek az ikrek között
+GEMINIÁN,MALE,latin,iker
+GEMMA,FEMALE,latin,bimbó,egy szem gyümölcs,drágakő,gyöngy,pávaszem
+GENOVÉVA,FEMALE,germán,(bizonytalan)
+GEORGINA,FEMALE,görög-latin,földműves,gazdálkodó
+GERASZIM,MALE,görög,tiszteletreméltó
+GERDA,FEMALE,germán,ág,vessző,dárda + bekerített hely
+GERGELY,MALE,görög,éberen őrködő
+GERGŐ,MALE,NULL,a Gergely magyar alakváltozata
+GERJÉN,MALE,görög-német-magyar,legidősebb fiútestvér
+GERLE,FEMALE,magyar,galamb
+GERMÁN,MALE,német,dárda,kelevéz,édes testvér
+GEROLD,MALE,germán,dárda + hatalom
+GERTRÚD,FEMALE,germán,a dárdák varázslónője
+GERZSON,MALE,héber,az idegen,a száműzött
+GERÉB,MALE,szász-magyar,községi bíró
+GERŐ,MALE,NULL,a Gergely és a Gerhard rövidült ill. -ő kicsinyítőképzős származéka
+GIBÁRT,MALE,német-magyar,adakozó kedvű + erős
+GIDA,MALE,NULL,a Gedeon név Gideon alakváltozatának rövidített, kicsinyítőképzős származéka
+GILBERT,MALE,német,híres a szabad nemesek fiai között
+GILBERTA,FEMALE,német,híres a Giesel-ek (a szabad nemesek) fiai között
+GILDA,FEMALE,görög-latin,pajzshordozó
+GILGAMES,MALE,mezopotámiai,(ismeretlen)
+GINA,FEMALE,NULL,a Georgina becéző rövidülése
+GITTA,FEMALE,óír-német,erős,erélyes
+GIZELLA,FEMALE,germán,női túsz,női kezes
+GLÓRIA,FEMALE,latin,dicsőség
+GOBERT,MALE,germán,Isten segítsége révén híres
+GODVIN,MALE,angol-holland,Isten barátja
+GORDON,MALE,skót-angol,(ismeretlen)
+GORGIÁS,MALE,latin,(ismeretlen)
+GOTFRID,MALE,német,Isten oltalma alatt álló
+GOTHÁRD,MALE,német,Isten segítségével erős
+GOTLÍB,MALE,germán,Isten gyermeke
+GRACIÁN,MALE,latin,kellemes,kedves,bájos
+GREGORI,MALE,görög,éber,szemfüles
+GRIZELDA,FEMALE,germán,(bizonytalan)
+GRIZELDISZ,FEMALE,NULL,a Grizelda alakváltozata
+GRÁCIA,FEMALE,latin,szeretetreméltóság,kegy
+GRÉTA,FEMALE,NULL,a Margaréta, Margit önállósult becézője
+GUJDÓ,MALE,német,erdőből származó
+GUNDA,FEMALE,NULL,a Kunigunda német rövidüléséből
+GUSZTÁV,MALE,skandináv-német,a gótok támasza
+GYENES,MALE,NULL,a Dénes régi magyar alakváltozata
+GYOPÁRKA,FEMALE,magyar,a szó maga
+GYULA,MALE,bolgár-török-magyar,magyar méltóságnév
+GYÁRFÁS,MALE,görög-latin,idős férfi
+GYÖNGYI,FEMALE,NULL,a Gyöngyvér becézett formája
+GYÖNGYVIRÁG,FEMALE,magyar,a virág maga
+GYÖNGYVÉR,FEMALE,Arany,gyöngytestvér
+GYÖRE,MALE,NULL,a György rövidített, kicsinyítőképzős származéka
+GYÖRGY,MALE,görög-latin,földműves,gazdálkodó
+GYÖRGYI,FEMALE,NULL,a Georgina női név magyarosítása
+GYÖRK,MALE,NULL,a György rövidített, kicsinyítőképzős származéka
+GYŐZŐ,MALE,NULL,a Viktor magyarító lefordítása
+GÁBOR,MALE,héber,Isten embere,Isten bajnoka
+GÁBRIEL,MALE,héber,Isten embere,Isten bajnoka
+GÁL,MALE,kelta-ír,kakas
+GÁLOS,MALE,NULL,a Gál régi teljesebb magyar alakja
+GÁSPÁR,MALE,perzsa,kincset megőrző
+GÉNIA,FEMALE,görög-latin-német,előkelő,nemes nemzetségből való
+GÉZA,MALE,török-német-magyar,méltóságnév
+GÜNTER,MALE,német,a harcosok seregének vezére
+HAJNA,FEMALE,Vörösmarty,hajnal
+HAJNALKA,FEMALE,NULL,a Hajna kicsinyítőképzős formája
+HAMILKÁR,MALE,föníciai,Melkart istenség kegyessége,jóindulata
+HANGA,FEMALE,magyar,a virág maga
+HANNA,FEMALE,NULL,a Johanna rövidült formája
+HANNIBÁL,MALE,föníciai,Baal isten kegyelme
+HANNÓ,MALE,ófelnémet,védelem
+HARALD,MALE,germán,hadsereg + merész
+HARKÁNY,MALE,magyar,harkály
+HARLÁM,MALE,orosz,örömtől ragyogó
+HARMATKA,FEMALE,magyar,harmat
+HARRI,MALE,NULL,a Henrik angol becézőjéből alakult
+HARTVIG,MALE,germán,merész a harcban
+HASSZÁN,MALE,arab,szép
+HAVASKA,FEMALE,magyar,tavaszi virág
+HEDDA,FEMALE,NULL,a Hedvig germán rövidítése
+HEDVIG,FEMALE,német,harc
+HEKTOR,MALE,görög,uralkodó
+HELGA,FEMALE,germán,egészséges,boldog
+HELIODOR,MALE,görög,a napisten ajándéka
+HELKA,FEMALE,magyar,egy balatoni rege tündérneve
+HELLA,FEMALE,NULL,a Helga alakváltozata és a Heléna német rövidülése
+HELÉN,FEMALE,NULL,a Heléna angol és francia formájából
+HELÉNA,FEMALE,görög,vitás (talán
+HENRIETT,FEMALE,francia,körülkerített birtokán uralkodó
+HENRIETTA,FEMALE,francia,körülkerített birtokán uralkodó
+HENRIK,MALE,germán,körülkerített birtokán uralkodó
+HERBERT,MALE,germán,hadsereg + fény
+HERMAN,MALE,germán,hadi férfi
+HERMINA,FEMALE,német,hadi nő
+HERMÉSZ,MALE,görög,beszélni,megmagyarázni
+HEROLD,MALE,NULL,a Harald német változata
+HERTA,FEMALE,NULL,Nerthus germán istenség nevének téves olvasatából
+HETÉNY,MALE,magyar,a hetedik gyermek
+HIADOR,MALE,NULL,a Heliodor régi magyar változata
+HILDA,FEMALE,német,harc,harcosnő
+HILMÁR,MALE,német,a harcban hírnevessé vált
+HILÁRIA,FEMALE,latin,derűs,vidám,jókedvű
+HILÁRIUSZ,MALE,latin,derűs,vidám,jókedvű
+HIPPOLIT,MALE,görög,a lovakat kifogó,eloldozó
+HOLDA,FEMALE,német,kedves,jóindulatú,készséges
+HOLLÓ,MALE,magyar,hollófekete haj
+HONORÁTUSZ,MALE,latin,tisztelt,tiszteletben álló,tiszteletreméltó
+HONT,MALE,német,kutyatartó,kutyabarát
+HONÓRIA,FEMALE,latin,tiszteletreméltó
+HONÓRIUSZ,MALE,latin,tiszteletreméltó
+HORTENZIA,FEMALE,latin,kerti virág
+HORÁC,MALE,görög-latin-német,ifjú,virágzó
+HORÁCIA,FEMALE,latin,ifjú,virágzó
+HUBA,MALE,magyar,(bizonytalan)
+HUBERT,MALE,német,szelleme által kiváló
+HUBERTA,FEMALE,német-latin,szelleme által kiváló
+HUGÓ,MALE,germán,értelmes,intelligens
+HUMBERT,MALE,német,ereje által ragyogó
+HUNOR,MALE,török-magyar,onogur (népnév)
+HÁGÁR,FEMALE,héber,bujdosó,menekült,idegen
+HÉLA,FEMALE,NULL,a Heléna név rövidüléséből
+HÉLIOSZ,MALE,görög,nap,napisten
+HÉRA,FEMALE,görög,megőrző,megóvó,védelmező
+HÓDOS,MALE,magyar,hódvadász
+HÓFEHÉRKE,FEMALE,magyar,a Grimm testvérek meséje nyomán
+HÓVIRÁG,FEMALE,magyar,a virág maga
+HÜMÉR,MALE,latin-magyar,hűséges
+IBOLYA,FEMALE,magyar,a virág maga
+IBRÁNY,MALE,NULL,az Ábrahám alakváltozata
+IDA,FEMALE,germán,tevékeny,serény
+IDUNA,FEMALE,germán,az örök ifjúság istennőjének nevéből
+IFIGÉNIA,FEMALE,görög,a hitregebeli mükénei királylány nevéből
+IGNÁC,MALE,latin,tűz
+IGNÁCIA,FEMALE,latin,tűz
+IGOR,MALE,német-orosz,Yngvi isten segítségével oltalmazó
+ILA,FEMALE,NULL,az Ilona rövidített -a kicsinyítőképzős formája
+ILDEFONZ,MALE,germán-nyugati,harcra kész
+ILDIKÓ,FEMALE,germán,harcos
+ILIÁN,MALE,görög-orosz,nap
+ILKA,FEMALE,NULL,az Ilona rövidített -ka kicsinyítőképzős formája
+ILLÉS,MALE,NULL,az Éliás önállósult változata
+ILMA,FEMALE,NULL,Vörösmarty Mihály névalkotása az Ilona és a Vilma nevekből
+ILMÁR,MALE,NULL,a finn Ilmár mondai hős nevéből
+ILONA,FEMALE,NULL,a Heléna régi magyarosodott alakváltozata
+ILÁRION,MALE,NULL,a Hiláriusz görögös formája
+IMBERT,MALE,fríz,nagy,hatalmas + ragyogó
+IMELDA,FEMALE,vitás,(bizonytalan)
+IMMÁNUEL,MALE,héber,Isten velünk van
+IMOLA,FEMALE,ismeretlen,mocsár,hínár,vizes terület
+IMRE,MALE,germán,hatalmas,híres,királyi
+INCE,MALE,latin,senkinek sem ártó
+INDIRA,FEMALE,indiai,Indira Ghandi nevéből
+INEZ,FEMALE,NULL,az Ágnes spanyol formája
+INGE,FEMALE,germán,Ingwio istenség + védelem
+INGRID,FEMALE,germán,Ingwio isten által oltalmazott lovasnő
+IPOLY,MALE,görög,a lovakat kifogó
+IRINA,FEMALE,NULL,az Irén szláv alakváltozata
+IRINGÓ,FEMALE,magyar,a növény maga
+IRMA,FEMALE,NULL,az Irm- kezdetű germán női nevek önállósult becézője
+IRÉN,FEMALE,görög,béke
+IRÉNEUSZ,MALE,görög-latin,békés
+ISTVÁN,MALE,görög-német-magyar,virágkoszorú
+ITALA,FEMALE,olasz,Itália tartományból való nő
+IVETT,FEMALE,francia,júdeai
+IVETTA,FEMALE,NULL,az Ivett latinos formája
+IVONN,FEMALE,NULL,az Ivó férfinév francia női párja
+IVOR,MALE,ír-skót-velszi,úr,uralkodó
+IVÁN,MALE,orosz,Isten kegyelmes
+IVÁNA,FEMALE,NULL,az Iván férfinév nőiesítése
+IVÓ,MALE,germán,tiszafa
+IZA,FEMALE,NULL,az Izabella, Izolda önállósult német becézője
+IZABELLA,FEMALE,NULL,az Elisabeth (Erzsébet) spanyol módosulata
+IZAIÁS,MALE,NULL,az Ézsaiás alakváltozata
+IZIDOR,MALE,görög-latin,Ízisz egyiptomi istennő ajándéka
+IZIDÓRA,FEMALE,görög,Ízisz egyiptomi istennő ajándéka
+IZMAEL,MALE,héber,Isten meghallgat
+IZMÉNE,FEMALE,görög,vágyakozást ébresztő,bájos,kecses,vonzó nő
+IZOLDA,FEMALE,kelta-német,vas
+IZOR,MALE,NULL,az Izidor magyar nyelvújítási alakváltozata
+IZRAEL,MALE,héber,Isten harcosa,Isten uralkodjon
+IZSÁK,MALE,héber-görög-latin,nevetés
+IZSÓ,MALE,NULL,az Ézsau alakváltozata vagy a József régi Izsóf változatának rövidülése
+ÍRISZ,FEMALE,görög,szivárvány,nőszirom
+JAGELLÓ,MALE,lengyel-litván,Jagailo litván nagyfejedelem nevéből
+JAKAB,MALE,héber,(bizonytalan)
+JAKOBINA,FEMALE,héber,(bizonytalan)
+JAKUS,MALE,NULL,a régi Jakob rövidített és -s kicsinyítőképzős származéka
+JANINA,FEMALE,NULL,a János férfinév német Jan formájának latinos nőiesítése
+JANKA,FEMALE,NULL,a János rövidített, becézett formája (eredetileg férfinévként volt használatos)
+JANUÁR,MALE,latin,Janus istennek szentelt
+JARMILA,FEMALE,cseh,tavasz + kedves
+JELLA,FEMALE,NULL,a Gabriella önállósult német becézője
+JENŐ,MALE,magyar,a hatodik magyar honfoglaló törzs neve
+JEREMIÁS,MALE,héber-görög-latin,Isten felemel
+JERNE,FEMALE,NULL,az Irén régebbi magyar változata
+JEROMOS,MALE,görög,szent nevű
+JETTA,FEMALE,NULL,a Henriett önállósult német becézője
+JOAKIM,MALE,héber,Jahve felkelt
+JOEL,MALE,héber,Jahve az Isten
+JOHANN,MALE,héber,Isten kegyes ajándéka
+JOHANNA,FEMALE,héber-görög-latin,Isten kegyelme,Isten kegyelmes
+JOLÁN,FEMALE,NULL,Dugonics András névalkotása,jó leány (magyar), a viola virága (görög)
+JONATÁN,MALE,héber,Isten ajándéka
+JORDÁN,MALE,héber,lefelé folyó
+JOZAFÁT,MALE,héber,Jahve ítél
+JOZEFA,FEMALE,héber,Jahve + gyarapítson
+JOZEFINA,FEMALE,héber,Jahve + gyarapítson
+JUDIT,FEMALE,héber,Judeából származó nő
+JUKUNDUSZ,MALE,latin,kellemes (ember)
+JULIANNA,FEMALE,latin,ragyogó
+JULIETTA,FEMALE,NULL,a Júlia önállósult francia becézője
+JULIUSZ,MALE,NULL,a Juliánusz alakváltozata
+JULIÁNUSZ,MALE,latin,a Julius nemzetséghez tartozó férfi
+JUSZTIN,MALE,NULL,a Jusztusz továbbképzett alakja
+JUSZTINA,FEMALE,latin,igazságos
+JUSZTUSZ,MALE,latin,igazságos,igazságszerető ember
+JUTAS,MALE,török-magyar,faló,nyelő
+JUTTA,FEMALE,NULL,a Judit német és dán alakváltozata
+JÁCINT,MALE,görög-latin,a virág neve
+JÁCINTA,FEMALE,görög,a virág maga
+JÁKOB,MALE,NULL,a Jakab eredeti alakváltozata
+JÁKÓ,MALE,NULL,a Jákob önállósult becézőjéből
+JÁNOS,MALE,héber-görög-latin,Isten kegyelme,Isten kegyelmes
+JÁRFÁS,MALE,NULL,a Gyárfás régi magyar alakváltozata
+JÁZMIN,FEMALE,magyar,a virág maga
+JÁZON,MALE,görög-német-magyar,gyógyulást hozó
+JÓB,MALE,héber,tűrő,üldözött
+JÓNÁS,MALE,héber,galamb
+JÓZSA,FEMALE,NULL,a János és a József becézője a Jozefa és Jozefina nevek magyarítására
+JÓZSEF,MALE,héber,Jahve + gyarapítson
+JÓZSIÁS,MALE,héber,Isten a védelmezőm
+JÓZSUA,MALE,héber,akinek a segítsége Istentől való
+JÚLIA,FEMALE,latin,Juliusz nemzetségéhez tartozó
+KABOS,MALE,NULL,a Jakab név régi magyar Jakabos megfelelőjének rövidülése
+KADA,MALE,magyar,(ismeretlen)
+KADOSA,MALE,magyar,(ismeretlen)
+KAJETÁN,MALE,latin,Gaeta városából való férfi
+KALLIOPÉ,FEMALE,görög,szép szavú
+KALLISZTA,FEMALE,görög,a legszebb
+KALVIN,MALE,latin,kopasz
+KAMILL,MALE,latin,nemesi születésű fiúgyermek,aki az áldozatoknál szolgált
+KAMILLA,FEMALE,latin,nemesi születésű
+KAMILLÓ,MALE,NULL,a Kamill olasz megfelelője
+KAMÉLIA,FEMALE,olasz-újlatin-magyar,a virág maga
+KANDID,MALE,latin,fehér,fénylő,ragyogó
+KANDIDA,FEMALE,latin,fehér,fénylő,ragyogó
+KANUT,MALE,skandináv,előkelő származású férfi
+KAPLONY,MALE,török-magyar,tigris
+KAPOLCS,MALE,török-magyar,(ismeretlen)
+KARDOS,MALE,magyar,a szó maga
+KARINA,FEMALE,olasz,csinos nő
+KARION,MALE,görög,Karia tartományból való férfi
+KARMELINA,FEMALE,NULL,a Karméla továbbképzése
+KARMÉLA,FEMALE,NULL,a Kármen olasz változatából
+KAROLA,FEMALE,latin-germán,legény,fiú
+KAROLINA,FEMALE,NULL,a Karola továbbképzése
+KARSA,MALE,török-magyar,ölyv,sólyom,kánya,vércse
+KARTAL,MALE,török-magyar,kánya,sas
+KARÁCSON,MALE,magyar,karácsony
+KARÁD,MALE,török-magyar,(ismeretlen)
+KASSZIÁN,MALE,latin,a Cassius nemzetséghez tartozó férfi
+KASZTOR,MALE,görög,önmagát kitüntető
+KATA,FEMALE,NULL,a Katalin magyar rövidüléséből önállósult
+KATALIN,FEMALE,egyiptomi-görög-német-magyar,korona
+KATAPÁN,MALE,görög-magyar,feljebbvaló
+KATINKA,FEMALE,NULL,a Katalin magyar becézőjéből önállósult
+KATÓ,FEMALE,NULL,a Katalin rövidült és kicsinyítőképzős formája
+KAZIMÍR,MALE,lengyel,békealapító,békebontó
+KELED,MALE,magyar,(ismeretlen)
+KELEMEN,MALE,latin,jámbor,szelíd
+KELEN,MALE,NULL,a Kelemen rövidülésének alakváltozata
+KEMENES,MALE,magyar,kemencés
+KENDE,MALE,kazár,régi kazár méltóságnévből
+KENESE,MALE,szláv-magyar,a király vagy a herceg birtoka
+KENÉZ,MALE,gót-szláv-magyar,herceg
+KERECSEN,MALE,magyar,kerecsensólyom
+KERESZTÉLY,MALE,latin-magyar,Krisztushoz tartozó,keresztény
+KERUBINA,FEMALE,héber-latin-magyar,angyalok
+KERÉNY,MALE,latin,lándzsás
+KESZŐ,MALE,török-magyar,vágó,rész,darab,töredék
+KEVE,MALE,magyar,kövecske
+KEVIN,MALE,kelta,kedves,szíves,nemes,szelíd,finom
+KILIÁN,MALE,kelta,szerzetes
+KILIÁNA,FEMALE,kelta,szerzetes
+KILÉNY,MALE,NULL,a Kilián régi magyar alakváltozata
+KINCSŐ,FEMALE,Jókai,számomra ő a kincs
+KINGA,FEMALE,NULL,a Kunigunda régi magyar becézőjéből önállósult
+KIRILL,MALE,NULL,a Cirill görögös változata
+KISANNA,FEMALE,NULL,az Anna erdélyi becézőjéből önállósult
+KITTI,FEMALE,NULL,a Katalin angol becézőjéből önállósult
+KLARISSZA,FEMALE,NULL,a Klára latinos továbbképzése
+KLAUDETTA,FEMALE,NULL,a Klaudia olasz becézőjéből önállósult
+KLAUDIA,FEMALE,latin,a Claudius nemzetség nőtagja
+KLEMENTINA,FEMALE,latin,jámbor,szelíd
+KLEOFÁS,MALE,görög,az apa dicsősége,hírneve
+KLEON,MALE,görög,dicsőség
+KLEOPÁTRA,FEMALE,görög,az apa dicsősége
+KLIÓ,FEMALE,görög,hírnök
+KLOTILD,FEMALE,germán,a dicsőségért harcoló nő
+KLÁRA,FEMALE,latin,világos,fényes,ragyogó,híres,kitűnő,jeles
+KLÉTUS,MALE,görög-latin,jó segítő
+KOCSÁRD,MALE,NULL,a német Gotthárd régi magyarosodott alakja
+KOLETTA,FEMALE,NULL,a Nikoletta rövidüléséből önállósult
+KOLOMBINA,FEMALE,latin-olasz,hímgalamb
+KOLOS,MALE,német-latin-magyar,iskolához tartozó,tanító,tanuló
+KOLUMBUSZ,MALE,latin,hímgalamb
+KOLUMBÁN,MALE,latin,galamb
+KONKORDIA,FEMALE,latin,egyetértés
+KONRÁD,MALE,német,merész + tanács
+KONSTANCIA,FEMALE,latin,szilárd,állhatatos,következetes
+KONSTANTIN,MALE,latin,Constantius családjához tartozó,szilárd,állhatatos,következetes
+KONSTANTINA,FEMALE,latin,szilárd,állhatatos,következetes
+KONT,MALE,magyar,(ismeretlen)
+KOPPÁNY,MALE,török-magyar,méltóságnév
+KORDÉLIA,FEMALE,latin-angol,szívecském
+KORIDON,MALE,latin,Vergilius alkotta irodalmi név
+KORINNA,FEMALE,latin-angol-német,szívecském
+KORIOLÁN,MALE,latin,Corioliból való férfi
+KORNÉL,MALE,latin,somfa,szarv
+KORNÉLIA,FEMALE,latin,somfa
+KORVIN,MALE,latin,holló
+KOZIMA,FEMALE,görög-olasz-német,szabályszerű,rendes
+KOZMA,MALE,latin,dísz,ékesség,dicséret
+KRISTÓF,MALE,görög,Krisztust hordozó
+KRISZTA,FEMALE,NULL,a Krisztina önállósult becézőjéből
+KRISZTINA,FEMALE,latin,Krisztushoz tartozó,keresztény
+KRISZTIÁN,MALE,latin,Krisztushoz tartozó,keresztény
+KRIZANTA,FEMALE,görög-latin,margitvirág,aranyvirág,margaréta
+KUND,MALE,magyar,méltóságnév
+KUNIGUNDA,FEMALE,német-latin-magyar,nemzetség + harc
+KUNÓ,MALE,NULL,a Konrád német becézőjéből
+KURSZÁN,MALE,török,keselyű
+KÁIN,MALE,héber,szerzemény,nyereség,tulajdon
+KÁL,MALE,török-magyar,marad
+KÁLEB,MALE,héber,merész,bátor,indulatos
+KÁLMÁN,MALE,török-magyar,maradék
+KÁMEA,FEMALE,olasz-magyar,domborúan vésett kő
+KÁN,MALE,magyar,(ismeretlen)
+KÁRMEN,FEMALE,héber-spanyol,kert
+KÁRMÁN,MALE,német-magyar,derék ember
+KÁROLY,MALE,magyar,karvaly,turul
+KÁSZON,MALE,magyar,(ismeretlen)
+KÁZMÉR,MALE,NULL,a Kazimír magyarosabb alakja
+KÍRA,FEMALE,görög-szláv,úr,uralkodó
+KÓSA,MALE,magyar,kos
+KÖTÖNY,MALE,török-magyar,élőlény hátsó része
+KÜRT,MALE,török-magyar,vihar
+LABORC,MALE,bolgár-szláv-török,hős párduc
+LADISZLA,FEMALE,szláv-latin,hatalom + dicsőség
+LADOMÉR,MALE,NULL,a Vladimir régi magyar formája
+LAJOS,MALE,germán-francia,hírnév + háború
+LAMBERT,MALE,német,országszerte híres
+LAMBERTA,FEMALE,német,országszerte híres
+LANTOS,MALE,magyar,a szó maga
+LARINA,FEMALE,szláv,(ismeretlen)
+LARION,MALE,NULL,az Ilárion önállósult szláv becézője
+LAURA,FEMALE,latin,babérfa,babérkoszorú
+LAVÍNIA,FEMALE,latin,Lavinium városából való nő
+LEA,FEMALE,héber,vadtehén,antilop
+LEANDER,MALE,görög-latin,a nép fia
+LEHEL,MALE,magyar,a szó maga
+LEJLA,FEMALE,perzsa-angol,sötét hajú
+LELLE,FEMALE,finnugor-magyar,lélek,lélegzik
+LENKE,FEMALE,NULL,a Lenchen (Helene és Magdalene német becézője) magyarító fordítása
+LEON,MALE,NULL,a Leó görög változatából
+LEONA,FEMALE,görög-latin,oroszlán
+LEONARDA,FEMALE,germán,erős mint az oroszlán
+LEONIDÁSZ,MALE,görög,Leon nevű apától származó fiúgyermek
+LEONTINA,FEMALE,latin,Leontini itáliai városból való férfi
+LEONÁRD,MALE,német-francia,erős,mint az oroszlán
+LEONÓRA,FEMALE,NULL,az Elenonóra önállósult becézője
+LEOPOLD,MALE,germán,merész a népben és a hadseregben
+LEOPOLDINA,FEMALE,germán,merész a népben és a hadseregben
+LETÍCIA,FEMALE,latin,öröm,vidámság,szépség,kellem,báj
+LEVENDULA,FEMALE,magyar,a virág maga
+LEVENTE,MALE,magyar,levő,létező
+LEÓ,MALE,görög,oroszlán
+LIA,FEMALE,NULL,a Lea alakváltozata
+LIBERÁTUSZ,MALE,latin,felszabadított
+LIBÉRIUSZ,MALE,latin,szabad
+LILI,FEMALE,NULL,a Lilian, Caroline, Elisabeth német és angol becézőjéből önállósult
+LILIÁNA,FEMALE,angol,liliom
+LILLA,FEMALE,NULL,a Lídia és Lívia régi magyar becézőjéből önállósult
+LINA,FEMALE,NULL,a Karolina becézőjéből önállósult
+LINDA,FEMALE,német,hársfából készült pajzs,kígyó
+LIONEL,MALE,francia-angol,oroszlán
+LIPÓT,MALE,NULL,a Leopold bajor változatából
+LIZA,FEMALE,NULL,az Elisabeth becézőjéből önállósult
+LIZANDER,MALE,spártai-latin,(ismeretlen)
+LIZANDRA,FEMALE,spártai,híres spártai hadvezér nevéből
+LIÁNA,FEMALE,NULL,a Julianna önállósult becézője
+LOLA,FEMALE,spanyol,erős asszony
+LOLITA,FEMALE,NULL,a Lola spanyol becézőjéből
+LORETTA,FEMALE,NULL,a Laura és a Leonóra olasz továbbképzése
+LORÁND,MALE,NULL,a Lóránt régies változata
+LOTÁR,MALE,ófrank-német,hírneves harcos
+LUCA,FEMALE,NULL,a Lúcia régi magyar formája
+LUCIÁN,MALE,latin,Lucius családjából származó
+LUDMILLA,FEMALE,szláv,a nép körében kedvelt,közkedvelt,népszerű
+LUDOVIKA,FEMALE,germán-ófrancia-latin,hírnév + háború
+LUJZA,FEMALE,NULL,a francia Louise magyarosított formája
+LUKRÉCIA,FEMALE,latin,megnyerő,vonzó
+LUKÁCS,MALE,latin,Luciana tartományból való férfi
+LÁSZLÓ,MALE,szláv,hatalom + dicsőség
+LÁZÁR,MALE,héber-görög-latin,Isten a segítőm
+LÁZÓ,MALE,NULL,a Lázár becézőjéből önállósult
+LÉDA,FEMALE,görög,a görög hitregebeli Lakedimón királyának felesége
+LÉL,MALE,finnugor-magyar,kürtös,kürtfúvó
+LÉNA,FEMALE,NULL,a Heléna, Magdaléna utótagjának önállósulása
+LÉNÁRD,MALE,germán,erős,mint az oroszlán
+LÉVI,MALE,héber,szövetség
+LÍCIA,FEMALE,NULL,a Felícia önállósult becézője
+LÍDIA,FEMALE,görög,az ókori Lídiából való nő
+LÍVIA,FEMALE,latin,ólomszínű,kékes
+LÍVIUSZ,MALE,latin,ólomszínű,kékes
+LÓRÁNT,MALE,germán,dicsőség + merész
+LÚCIA,FEMALE,latin,virradatkor vagy hajnalhasadáskor született
+LÚCIUSZ,MALE,latin,virradatkor született
+LŐRINC,MALE,latin,Laurentum vidékéről származó férfi,babérkoszorúval díszített
+MABELLA,FEMALE,latin-angol-germán,szeretetreméltó
+MADLÉNA,FEMALE,NULL,a Magdolna latinosított formája
+MAGDA,FEMALE,NULL,a Magdaléna önállósult becézője
+MAGDALÉNA,FEMALE,arámi-héber,torony,bástya,Magdala városából származó nő
+MAGDOLNA,FEMALE,NULL,a Magdaléna magyarosodott alakváltozata
+MAGNUSZ,MALE,latin,nagy növésű,magas termetű
+MAHÁLIA,FEMALE,héber,gyengédség,szelídség
+MAJA,FEMALE,NULL,a római Maja istennő nevéből
+MAJLÁT,MALE,magyar,(ismeretlen)
+MAKABEUS,MALE,héber,kalapácsoló
+MAKÁR,MALE,görög,boldog
+MALAKIÁS,MALE,héber,angyal,Isten követe,küldöttje
+MALVIN,FEMALE,germán,a jog barátja
+MANASSÉ,MALE,héber,az elfelejtett ember
+MANDA,FEMALE,NULL,a Magdolna szláv (Mandalena) becézőjéből önállósult
+MANDEL,MALE,germán,mandula
+MANFRÉD,MALE,német,erős,férfias,védelmező
+MANFRÉDA,FEMALE,német,erélyes,férfias,védelmező
+MANNA,FEMALE,NULL,a Mária magyar becézőjéből önállósult
+MANON,FEMALE,NULL,a Mária francia becézőjéből önállósult
+MANUÉLA,FEMALE,NULL,az Emanuéla rövidülése
+MANÓ,MALE,NULL,a Mánuel kicsinyítőképzős származékából önállósult
+MARA,FEMALE,NULL,a Mária rövidített és kicsinyítőképzős formája
+MARCELL,MALE,latin,Mars istenhez tartozó,neki szentelt
+MARCELLA,FEMALE,latin,határerdő,a határvidék védője
+MARCELLINA,FEMALE,latin,határerdő,a határvidék védője
+MARCIÁN,MALE,latin,a Martius nemzetséghez tartozó férfi
+MARGARÉTA,FEMALE,görög,gyöngy
+MARGIT,FEMALE,NULL,a Margaréta régi magyaros formája
+MARGITA,FEMALE,NULL,a Margit régebbi magyar változata
+MARGÓ,FEMALE,NULL,a Margit rövidített és kicsinyítőképzős formája
+MARIANN,FEMALE,latin,Marius családjához tartozó,Szűz Máriához tartozó
+MARIANNA,FEMALE,latin,Marius családjához tartozó,Szűz Máriához tartozó
+MARICA,FEMALE,NULL,a Mária rövidített és kicsinyítőképzős formája
+MARIETTA,FEMALE,NULL,a Mária olasz továbbképzése
+MARINA,FEMALE,latin,tengeri,tengerből jövő,tengerhez tartozó,tengerész
+MARINELLA,FEMALE,NULL,a Marina olasz továbbképzése
+MARINETTA,FEMALE,NULL,a Marina olasz továbbképzése
+MARION,FEMALE,NULL,a Mária francia alakváltozata
+MARITA,FEMALE,NULL,a Mária olasz becéző alakja
+MARIÁN,MALE,latin,a Marius nemzetséghez tartozó férfi
+MARIÓRA,FEMALE,NULL,a Mária román kicsinyítőképzős formája
+MARKÓ,MALE,NULL,a Márkus -ó kicsinyítőképzős származékából
+MARLÉNE,FEMALE,NULL,a Maria és Helene nevek összevont alakja
+MARTINA,FEMALE,latin,Mars istenhez hasonló,merész,bátor
+MARTOS,MALE,NULL,a Márton rövidült, kicsinyítőképzős régi magyar származékából
+MARÓT,MALE,szláv-magyar,Morava menti,morva
+MASA,FEMALE,NULL,a Mária orosz becézőjéből
+MATILD,FEMALE,német,hatalom + harc
+MAURA,FEMALE,latin,mór,szerecsen
+MAURÍCIA,FEMALE,latin,mór,szerecsen
+MAXIM,MALE,latin,nagy növésű,magas
+MAXIMILIÁN,MALE,latin,nagy növésű,magas
+MAXIMILLA,FEMALE,latin,nagy növésű,magas
+MEDÁRD,MALE,német,hatalmas + erős
+MEDÁRDA,FEMALE,latin-német,hatalmas + erős
+MEGYER,MALE,magyar,magyar
+MELINA,FEMALE,germán-latin,erőfeszítés,védelem
+MELINDA,FEMALE,NULL,D'Ussieux francia író névalkotása
+MELITON,MALE,görög,mézzel teletöltő
+MELITTA,FEMALE,görög,méh,szorgalmas
+MELIÓRA,FEMALE,latin-angol,jobb,derekabb,ügyesebb
+MELÁNIA,FEMALE,görög,fekete,sötét
+MENDEL,MALE,NULL,az Emánuel, Immánuel önállósult német változatából
+MENYHÉRT,MALE,héber,királyi fény
+MERCÉDESZ,FEMALE,spanyol,fogolykiváltó
+METELLA,FEMALE,NULL, Metta olasz továbbképzése
+METTA,FEMALE,NULL,a Matild holland formája
+METÓD,MALE,görög-latin,kutatás,nyomozás,csel,furfang
+MIA,FEMALE,NULL,a Mária több nyelvű rövidülése
+MIETTA,FEMALE,NULL,a Mária olasz becézőjéből önállósult
+MIHAÉLA,FEMALE,héber-germán,az Istenhez hasonló
+MIHÁLY,MALE,héber,az Istenhez hasonló
+MIKE,MALE,NULL,a Mikhál (ma: Mihály) régi önállósult becézőjéből
+MIKES,MALE,NULL,a Mikhál (ma: Mihály) önállósult becézőjéből
+MIKEÁS,MALE,héber-latin,kicsoda olyan mint az Isten?
+MIKLÓS,MALE,görög-szláv,győzelem + nép
+MIKOLT,FEMALE,NULL,Kézai Simon névalkotása
+MIKSA,MALE,NULL,a Mikhál (ma: Mihály) önállósult becézőjéből
+MIKÓ,MALE,NULL,a Mikhál (ma: Mihály) önállósult becézőjéből
+MILDA,FEMALE,német,szelíd,elnéző,jóakaratú
+MILETTA,FEMALE,NULL,a Miléna önállósult becézője
+MILICA,FEMALE,NULL,a Ludmilla és a Miléna ill. Milina szláv becézőjéből önállósult
+MILLA,FEMALE,NULL,a Kamilla és a Ludmilla utótagjának önállósulása
+MILOS,MALE,NULL,a Milo- kezdetű szláv nevek kicsinyítőképzős szláv becézőjéből
+MILÁN,MALE,szláv,kedves
+MILÉNA,FEMALE,NULL,a Maria és az Elena ill. a Maria és a Maddalena olasz összevonása
+MIMÓZA,FEMALE,magyar,a növény maga
+MINNA,FEMALE,NULL,a német Hermina és Vilhelmina önállósult becézője
+MIRABELLA,FEMALE,latin,csodálatos
+MIRANDA,FEMALE,latin,csodálatos
+MIRANDELLA,FEMALE,NULL,a Miranda olasz továbbképzése
+MIRANDOLA,FEMALE,NULL,a Miranda olasz továbbképzése
+MIRANDOLÍNA,FEMALE,NULL,a Mirandola olasz továbbképzése
+MIRELLA,FEMALE,NULL,a Míra olasz becéző továbbképzése
+MIRJAM,FEMALE,NULL,a Mária eredeti héber formája
+MIRKÓ,MALE,szláv,(ismeretlen)
+MIRON,MALE,görög,síró
+MIRTILL,FEMALE,görög-francia,mirtuszfa,áfonya
+MODESZTA,FEMALE,latin,szerény,szelíd,megfontolt,szemérmes,tisztességes
+MODESZTUSZ,MALE,latin,egyszerű,szerény
+MORELLA,FEMALE,latin,eper,szeder
+MORGAN,MALE,velszi,nagy + világos,tiszta,tengeren született
+MURIEL,FEMALE,kelta-angol-normandiai,ragyogó mint a tenger
+MÁLYVA,FEMALE,magyar,a virág maga
+MÁNUEL,MALE,NULL,az Emánuel több nyelvben meglévő rövidülése
+MÁRIA,FEMALE,héber-görög-latin,(ismeretlen)
+MÁRIUSZ,MALE,latin,férfi
+MÁRIÓ,MALE,NULL,a Máriusz olasz változatából
+MÁRK,MALE,NULL,a Márkus rövidüléséből
+MÁRKUS,MALE,latin,Mars hadistenhez tartozó,neki szentelt
+MÁRTA,FEMALE,héber,úrnő
+MÁRTON,MALE,héber,Jahve ajándéka
+MÁRTON,MALE,latin,Mars istenhez hasonló,merész,bátor
+MÁTKA,FEMALE,magyar,a szó maga (jegyes)
+MÁTYÁS,MALE,héber-latin,Jahve ajándéka
+MÁTÉ,MALE,héber,Jahve ajándéka
+MÉDEA,FEMALE,görög,bölcs asszony
+MÉNRÓT,MALE,ismeretlen,a magyarság mondai ősapjának nevéből
+MÍRA,FEMALE,latin,csodálatos
+MÓNIKA,FEMALE,karthágói-pun,istennő
+MÓR,MALE,NULL,a Móric rövidüléséből
+MÓRIC,MALE,latin,mór,szerecsen
+MÓZES,MALE,héber,vízből kihúzott
+NADIN,FEMALE,orosz,remény,reménység
+NADINKA,FEMALE,NULL,a Nadin magyar és szláv kicsinyítőképzős formája
+NANDA,FEMALE,NULL,a Fernanda önállósult rövidülése
+NANETT,FEMALE,NULL,az Anna önállósult francia becézője
+NAPSUGÁR,FEMALE,magyar,a szó maga
+NAPÓLEON,MALE,olasz,Nápoly városából való férfi
+NATASA,FEMALE,NULL,a Natália orosz becézőjéből önállósult
+NATÁLIA,FEMALE,latin,Jézus születésnapja
+NAUZIKA,FEMALE,görög,híres hajós
+NAÓMI,FEMALE,héber,gyönyörűségem
+NEDDA,FEMALE,olasz,tisztázatlan
+NEFELEJCS,FEMALE,magyar,a virág maga
+NELLI,FEMALE,NULL,az Eleonóra és a Heléna ill. Kornélia angol becézőjéből önállósult
+NEMERE,MALE,szláv-magyar,nyughatatlan
+NERINA,FEMALE,görög,nedves,vizes
+NESZTA,FEMALE,NULL,az Anasztázia magyar becézőjéből önállósult
+NESZTOR,MALE,görög,mindig hazatérő
+NETTA,FEMALE,NULL,a -netta -nette és -neta végű női nevek önállósult becézője
+NIKANDER,MALE,görög-latin,győztes férfi
+NIKODÉMIA,FEMALE,görög-latin,a hadinép legyőzője
+NIKODÉMUSZ,MALE,görög-latin,a hadinép legyőzője
+NIKOLA,FEMALE,görög-német,győzelem + nép
+NIKOLETT,FEMALE,NULL,a Nikola olasz kicsinyítő továbbképzése
+NIKOLETTA,FEMALE,NULL,a Nikola olasz kicsinyítő továbbképzése
+NIKÉ,FEMALE,görög,győzelem
+NIKÉTÁS,MALE,görög,győztes,diadalmaskodó
+NILLA,FEMALE,NULL,a -nilla végű női nevek olasz becézője
+NINA,FEMALE,NULL,több női név (pl.: Anna/Johanna/Antonina stb.) rövidült becéző formája
+NINETTA,FEMALE,NULL,a Nina olasz kicsinyítő továbbképzése
+NOEL,MALE,latin,karácsonykor született
+NORBERT,MALE,német,északi fény
+NORBERTA,FEMALE,német,északi fény
+NORINA,FEMALE,NULL,a Nóra olasz becéző továbbképzése
+NORMA,FEMALE,latin-angol,zsinórmérték,irányvonal,vezérfonal
+NORMAN,MALE,angol,normann férfi,északi ember
+NOÉ,MALE,héber,nyugalom,vigasztalás
+NOÉMI,FEMALE,héber,gyönyörűségem
+NYESTE,FEMALE,magyar,nyest
+NYÉK,MALE,magyar,gyepü,határvidék,a határvidéken lakó népcsoport tagja
+NÁDJA,FEMALE,orosz,remény,reménység
+NÁNDOR,MALE,vitás,(bizonytalan)
+NÁRCISZ,FEMALE,görög,a virág maga
+NÁTÁN,MALE,héber,Isten adta
+NÁTÁNIEL,MALE,héber,Isten adta
+NÓNUSZ,MALE,latin,kilencedik gyermek
+NÓRA,FEMALE,NULL,az Eleonóra és a Honóra rövidülése
+OBERON,MALE,francia,tündérek segítségével uralkodó
+ODETT,FEMALE,NULL,a német Oda és Uta ill. Ute nevek francia kicsinyítőképzős formája
+ODILÓ,MALE,NULL,az Ottó önállósult felnémet becézőjéből
+ODISSZEUSZ,MALE,görög-latin-magyar,mondai hős neve
+ODÍLIA,FEMALE,német-latin,gazdag
+ODÓ,MALE,NULL,az Ottó önállósult alnémet becézőjéből
+OFÉLIA,FEMALE,görög,segítség,segély,nyereség
+OGUZ,MALE,török-magyar,nyíl
+OKTÁVIA,FEMALE,latin,nyolcadik (gyermek)
+OKTÁVIÁN,MALE,latin,nyolcadik (gyermek)
+OLAF,MALE,skandináv,az ősök ivadéka
+OLGA,FEMALE,NULL,a Helga orosz formájából
+OLIMPIA,FEMALE,görög,égi,mennyei,isteni
+OLINDA,FEMALE,német,birtok + harc
+OLIVÉR,MALE,latin,olajfaültető
+OLÍVIA,FEMALE,latin,olajfa
+OMPOLY,MALE,latin-magyar,Ampelum városból való
+OMÁR,MALE,héber-arab,hegylakó,hegyi lakos,földműves,gazdálkodó,hosszú életű
+OND,MALE,magyar,tizedik szülött gyermek
+ORBÁN,MALE,latin,városi,finom,művelt,udvarias ember
+ORBÓ,MALE,szláv,fűz
+ORCHIDEA,FEMALE,magyar,a virág maga
+ORESZTÉSZ,MALE,görög,hegyi lakó
+ORFEUSZ,MALE,görög,árva,egyedüli,magányos
+ORGONA,FEMALE,magyar,a virág maga
+ORION,MALE,görög,görög hitrege híres vadászának nevéből
+ORIÁNA,FEMALE,latin,Uria városából való
+ORMOS,MALE,magyar,orom
+ORSIKA,FEMALE,NULL,az Orsolya rövidített és kicsinyítőképzős származéka
+ORSOLYA,FEMALE,ófelnémet-latin,kis medve,ló,paripa
+ORÁLIA,FEMALE,latin-olasz-spanyol,partvidéki
+OSSZIÁN,MALE,kelta-skót,(ismeretlen)
+OSZKÁR,MALE,ír-kelta,szarvast kedvelő
+OSZLÁR,MALE,kun,jászok,jász férfiak
+OSZVALD,MALE,német,istenség + hatalom
+OSZVALDA,FEMALE,német,istenség + hatalom
+OTMÁR,MALE,német,vagyon + híres
+OTTOKÁR,MALE,német,birtokot megőrző
+OTTÓ,MALE,germán,vagyon + híres
+OTÍLIA,FEMALE,német,öröklött vagyon
+OVÍDIUSZ,MALE,latin,juh
+OXÁNA,FEMALE,NULL,a Xénia orosz formájából
+OZOR,MALE,török-magyar,úz férfi
+OZSVÁT,MALE,NULL,az Oszvald régi magyar változatának fejleménye
+ÖDÖN,MALE,germán,az öröklött birtokot megőrző
+ÖRKÉNY,MALE,török-magyar,férfi,hős,félelmet keltő
+ÖRS,MALE,török-magyar,férfi,hős
+ÖRSI,FEMALE,magyar,hős
+ÖZSÉB,MALE,görög-latin,istenfélő,jámbor
+ŐSZIKE,FEMALE,magyar,őszi kikirics
+ŐZIKE,FEMALE,magyar,a szó maga
+PALMER,MALE,latin,pálmatulajdonos,zarándok
+PALÓMA,FEMALE,spanyol,galamb
+PAMFIL,MALE,görög,mindenki által kedvelt,közkedvelt
+PAMÉLA,FEMALE,görög,mézzel tele
+PAMÍNA,FEMALE,NULL,Varázsfuvola (Mozart) női főszereplőjének neve
+PANNA,FEMALE,NULL,az Anna becézőjéből önállósult
+PANTALEON,MALE,görög,mindenkivel szemben könyörületes,minden tekintetben olyan mint egy oroszlán
+PASZKÁL,MALE,görög-héber-latin,húsvét
+PASZTORELLA,FEMALE,újlatin,pásztorlányka
+PATONY,MALE,magyar,(ismeretlen)
+PATRIK,MALE,NULL,a Patrícius ír rövidülése
+PATRÍCIA,FEMALE,latin,rómainak született nemes
+PATRÍCIUS,MALE,latin,rómainak született nemes
+PAULA,FEMALE,latin,kicsi,kis termetű
+PAULINA,FEMALE,NULL,a Paula továbbképzése
+PEDRÓ,MALE,görög-spanyol,kő,kőszikla
+PELBÁRT,MALE,NULL,a Filibert alakváltozata
+PELLEGRIN,MALE,latin-magyar,jövevény,zarándok
+PELÁGIA,FEMALE,görög-latin,tengerész,tengeri utazó
+PELÁGIUSZ,MALE,görög,tengerész,tengeri utazó
+PENTELE,MALE,görög-magyar,könyörületes
+PERIKLÉSZ,MALE,görög,nagyon híres
+PERPÉTUA,FEMALE,latin,állhatatos
+PETRA,FEMALE,héber-görög-latin,kőszikla
+PETRONELLA,FEMALE,latin,Petronius nemzetségéből származó nő,kő,szikla
+PETRÓNIA,FEMALE,latin,Petronius nemzetségéből származó nő,kő,szikla
+PETRÓNIUSZ,MALE,etruszk-latin,edzett férfi,ürü
+PETÚNIA,FEMALE,indián-magyar,dohány,tölcsérke
+PETÚR,MALE,NULL,a Péter név régi helyesírás szerinti alakváltozata
+PETŐ,MALE,NULL,a Péter rövidült, kicsinyítőképzős származéka
+PEÓNIA,FEMALE,latin-magyar,bazsarózsa
+PINTYŐKE,FEMALE,magyar,az énekesmadár
+PIROSKA,FEMALE,latin-magyar,régi,egykori,tiszteletre méltó
+PIUSZ,MALE,latin,szelíd,jámbor,kegyes,béketűrő
+PLACID,MALE,latin,szelíd,csendes,békés,barátságos
+POLETT,FEMALE,NULL,a Paula francia becéző továbbképzése
+POLIDOR,MALE,görög,adakozó,bőkezű
+POLIKÁRP,MALE,görög-latin,bő gyümölcsöt termő
+POLIXÉNIA,FEMALE,görög,vendégszerető
+POLLI,FEMALE,NULL,az Apollónia és az Apollinária önállósult becézője
+PONGOR,MALE,NULL,a Pongrác régi magyar becézőjéből
+PONGRÁC,MALE,latin,minden + erő,hatalom
+PORFIR,MALE,görög,bíborba öltözött
+PRISZCILLA,FEMALE,latin,régi,egykori,tiszteletreméltó
+PRÍMUSZ,MALE,latin,elsőszülött fiú
+PÁL,MALE,latin,kicsi,kis termetű férfi
+PÁLMA,FEMALE,magyar,a növény maga
+PÁRIS,MALE,görög,Parisz trójai hős nevéből
+PÁZMÁN,MALE,német-magyar,jobb + férfi
+PÉNELOPÉ,FEMALE,görög,szövetet felfejtő
+PÉTER,MALE,héber-görög-latin,kőszikla
+PÓLIKA,FEMALE,NULL,a Polixéna és az Apollónia ill. a Paula magyar becézője
+RABÁN,MALE,ófelnémet,holló
+RADAMESZ,MALE,egyiptomi,(ismeretlen)
+RADISZLÓ,MALE,szláv,vidám dicsőség
+RADOMÉR,MALE,szláv,vidám + béke
+RAFAEL,MALE,héber,Isten meggyógyít
+RAFAELLA,FEMALE,héber,Isten meggyógyít
+RAJMUND,MALE,német,okos védő
+RAJMUNDA,FEMALE,germán,okos védő
+RAJNALD,MALE,német,aki a tanácsban tevékenykedik
+RALF,MALE,angol,oltalmazott,védett
+RAMÓN,MALE,germán-spanyol,okos védelmező
+RAMÓNA,FEMALE,germán-spanyol,okos védelmező
+RAUL,MALE,germán-francia,dicső farkas
+RAZMUS,MALE,NULL,az Erazmus rövidülése
+REBEKA,FEMALE,héber,megkötöző,megigéző,megbabonázó,jól táplált
+REGINA,FEMALE,latin,királynő
+REGINALD,MALE,német,aki a tanácsban tevékenykedik
+REGŐ,MALE,magyar,(ismeretlen)
+RELINDA,FEMALE,német,sereg + hársfából készült pajzs
+RELLA,FEMALE,NULL,az Aurélia önállósul magyar becézője
+REMIG,MALE,latin,hajós,evezős
+REMÉNYKE,FEMALE,orosz-magyar,a szó maga
+RENÁTA,FEMALE,latin,újjászületett
+RENÁTÓ,MALE,latin,újjászületett
+REZEDA,FEMALE,magyar,a virág maga
+REZSŐ,MALE,magyar,(ismeretlen)
+RIA,FEMALE,NULL,a Mária önállósult becézője
+RICHÁRD,MALE,német,erős fejedelem
+RIKARDA,FEMALE,német-spanyol,erős fejedelem
+RITA,FEMALE,NULL,a Margaréta (Margherita) olasz becézőjéből
+RIZA,FEMALE,NULL,a Terézia magyar becézőjéből
+ROBERTA,FEMALE,német,fényes hírnév
+ROBERTINA,FEMALE,német,fényes hírnév
+ROBIN,MALE,NULL,a Róbert önállósult francia és angol becézőjéből
+RODELINDA,FEMALE,német,dicsőség + hársfából készült pajzs
+RODION,MALE,görög,rózsa
+RODRIGÓ,MALE,germán-spanyol,híres uralkodó
+ROLAND,MALE,német,vakmerő hős
+ROLF,MALE,NULL,a Rudolf önállósult német becézője
+ROMULUSZ,MALE,latin,mondabeli névalkotás
+ROMÁN,MALE,latin,római,latin
+ROMÁNA,FEMALE,latin,római
+RONALD,MALE,német,erős uralkodó
+ROXÁNA,FEMALE,perzsa-görög,(ismeretlen)
+ROZALINDA,FEMALE,német,paripa + hársfából készült pajzs
+ROZAMUNDA,FEMALE,német,paripa + védelem,oltalom
+ROZANNA,FEMALE,NULL,a Rosa és az Anna olasz összevonása
+ROZINA,FEMALE,NULL,a Róza -ina képzős származéka
+ROZITA,FEMALE,NULL,a Rosa spanyol becézőjéből önállósult
+ROZMARIN,FEMALE,magyar,rozmaring
+ROZVITA,FEMALE,német,erejéről híres
+ROZÁLIA,FEMALE,NULL,a Róza olaszos továbbképzése
+RUBEN,MALE,héber,nézzétek,egy fiú!
+RUBINA,FEMALE,latin,a drágakő maga
+RUDOLF,MALE,német,dicső farkas
+RUDOLFINA,FEMALE,német,dicső farkas
+RUFINA,FEMALE,latin,vörös
+RUPERT,MALE,NULL,a Róbert német alakváltozata
+RUSZALKA,FEMALE,NULL,a Rozália szláv becézőjéből önállósult
+RUSZLÁM,MALE,orosz,oroszlán
+RUSZLÁNA,FEMALE,török-tatár-orosz,oroszlán
+RUSZTEM,MALE,perzsa,vidéki
+RÁFIS,MALE,NULL,a Rafael rövidített, kicsinyítőképzős származékából
+RÁHEL,FEMALE,héber,bárány
+RÁPOLT,MALE,német,merész tanácsadó
+RÁTOLD,MALE,német,aki a tanácsban tevékenykedik
+RÉKA,FEMALE,török-hun-magyar,(ismeretlen)
+RÉMUSZ,MALE,latin,mondabeli névalkotás
+RÉTA,FEMALE,NULL,a Margaréta utótagjának önállósulása
+RÓBERT,MALE,német,fényes hírnév
+RÓKUS,MALE,germán-latin,(ismeretlen)
+RÓMEÓ,MALE,olasz,Rómába zarándokló
+RÓZA,FEMALE,latin,rózsa
+RÓZSA,FEMALE,magyar,a virág maga
+RÚFUSZ,MALE,latin,vörös
+SALAMON,MALE,héber,békés,szelíd
+SAMU,MALE,NULL,a Sámuel rövidüléséből.
+SAMUELLA,FEMALE,héber-latin,Isten meghallgatott
+SAROLT,FEMALE,török-magyar,fehér menyét
+SAROLTA,FEMALE,török-magyar,fehér menyét
+SAUL,MALE,héber,kért
+SEBES,MALE,magyar,a szó maga
+SEBESTYÉN,MALE,görög-latin,magasztos,felséges
+SEBŐ,MALE,vitás,(bizonytalan)
+SEHEREZÁDÉ,FEMALE,NULL,az Ezeregyéjszaka meséi című arab mesegyűjtemény főhősnőjének nevéből
+SEJLA,FEMALE,NULL,a Cecília angol formájának (Sheila) önállósult becézője
+SELTON,MALE,óangol,városszéli
+SEMJÉN,MALE,NULL,a Simeon régi magyar változata
+SIMEON,MALE,héber,meghallgattatás
+SIMON,MALE,NULL,a Simeon rövidüléséből
+SION,MALE,héber,erősség,vár,hegy
+SKOLASZTIKA,FEMALE,latin,az iskolához tartozó,tanító,tanuló
+SOLT,MALE,NULL,a Zsolt régi magyar alakváltozata
+SOMA,MALE,magyar,som
+STEFÁN,MALE,görög,korona
+STEFÁNIA,FEMALE,latin,virágkoszorú
+STELLA,FEMALE,latin,csillag
+SUDÁRKA,FEMALE,magyar,sudár
+SUGÁRKA,FEMALE,magyar,sugár
+SURÁNY,MALE,török-magyar,török méltóságnév
+SZABIN,MALE,latin,a szabinok népéhez tartozó férfi
+SZABINA,FEMALE,latin,a szabinok népéhez tartozó
+SZABOLCS,MALE,magyar,(ismeretlen)
+SZALVIA,FEMALE,latin,sértetlen,ép
+SZALVIUSZ,MALE,latin,sértetlen,ép
+SZALVÁTOR,MALE,latin,megváltó,üdvözítő
+SZALÓK,MALE,török-magyar,(ismeretlen)
+SZALÓME,FEMALE,héber,Sion békéje
+SZAMANTA,FEMALE,héber,Isten neve,Isten meghallgatott
+SZANDRA,FEMALE,NULL,az Alexandra olasz becézőjéből
+SZANISZLÓ,MALE,szláv,állandó dicsőség
+SZAVÉTA,FEMALE,NULL,az Erzsébet román becézőjéből
+SZEBASZTIAN,MALE,görög,tisztelt,nagyrabecsült
+SZECSŐ,MALE,magyar,(ismeretlen)
+SZEDERKE,FEMALE,magyar,szeder
+SZELIM,MALE,héber-arab,szelíd
+SZELLŐKE,FEMALE,magyar,szellő
+SZEMERE,MALE,török,rontó,pusztító
+SZEMIRÁMISZ,FEMALE,arab-görög,Asszíria királynőjének nevéből
+SZEMŐKE,FEMALE,magyar,szemecske,apróság,kicsike,nagy szemű,szép szemű
+SZENDIKE,FEMALE,magyar,szende
+SZENDILE,FEMALE,magyar,szende
+SZERAFINA,FEMALE,héber-német,tündöklő,nemes
+SZERGIUSZ,MALE,latin,megőrző,gondozó,felügyelő,felvigyázó
+SZERVÁC,MALE,latin,megszabadított
+SZERÁF,MALE,héber-német,tündöklő,nemes (ember)
+SZERÉNA,FEMALE,latin,derűs,vidám
+SZERÉNIUSZ,MALE,latin,derűs,vidám
+SZEVERÉD,MALE,NULL,a Szigfrid régi magyar alakja
+SZEVÉR,MALE,török,mormota
+SZIBILLA,FEMALE,NULL,Apollón isten papnőinek nevéből
+SZIDÓNIA,FEMALE,föníciai,Szidón városából való nő
+SZIGFRID,MALE,germán,győzelem + béke
+SZILVESZTER,MALE,latin,erdő,erdő mellett lakó férfi
+SZILVIA,FEMALE,latin,erdő
+SZILVIUSZ,MALE,latin,erdő
+SZILVÁNA,FEMALE,latin,erdő
+SZILVÁNUSZ,MALE,latin,erdő
+SZILÁRD,MALE,NULL,a Konstantin magyarító lefordítása
+SZILÁRDA,FEMALE,latin,szilárd,állhatatos,következetes
+SZIMONETTA,FEMALE,NULL,a Simon olasz kicsinyítőképzős női párja
+SZIMÓNA,FEMALE,héber,meghallgattatás
+SZIRONKA,FEMALE,magyar,szirom
+SZIRÉN,FEMALE,görög,halfarkú női alak
+SZIXTUSZ,MALE,görög-latin,sima,finom
+SZOFRON,MALE,görög,értelmes,okos,helyesen gondolkodó
+SZOFRÓNIA,FEMALE,görög,értelmes,okos,helyesen gondolkodó
+SZOLÓN,MALE,görög,ógörög államférfi nevéből
+SZONJA,FEMALE,NULL,a Zsófia orosz becézőjének németes formája
+SZONÓRA,FEMALE,latin,csengő hangú
+SZORINA,FEMALE,francia-román,vörös hajú
+SZOVÁT,MALE,szláv,(ismeretlen)
+SZTELLA,FEMALE,latin,csillag
+SZULAMIT,FEMALE,héber,az Énekek énekének nőalakjának nevéből
+SZULTÁNA,FEMALE,török,fejedelem
+SZVETLÁNA,FEMALE,orosz,virág
+SZÉNIA,FEMALE,NULL,a Xénia alakváltozata
+SZÍRIUSZ,MALE,latin,Szíria tartományából való férfi
+SZÓFIA,FEMALE,görög,ügyesség
+SZÓKRATÉSZ,MALE,görög,szerencse,erő
+SZÓLÁT,MALE,NULL,a Szórád régi magyar alakváltozata
+SZÓRÁD,MALE,szláv,(ismeretlen)
+SZÖRÉNKE,FEMALE,NULL,a Szörény férfinév női párja
+SZÖRÉNY,MALE,NULL,a Szeverin származéka
+SÁBA,FEMALE,héber,megtérített
+SÁMSON,MALE,héber,nap,napocska,napsütés
+SÁMUEL,MALE,héber,Isten meghallgatott
+SÁNDOR,MALE,görög-olasz-német,az embereket vagy az emberek ellen oltalmazó
+SÁRA,FEMALE,héber,hercegnő,uralkodónő
+SÓLYOM,MALE,magyar,a szó maga
+TACITUSZ,MALE,latin,csendes,hallgatag
+TADDEUS,MALE,héber-latin,bátor szívű,elszánt,merész
+TAKSONY,MALE,török-magyar,jóllakott,elégedett
+TALBOT,MALE,angol,véreb
+TAMARA,FEMALE,héber,datolyapálma
+TAMÁS,MALE,arameus-görög,iker,csodálatos
+TANKRÉD,MALE,germán-normann,gondolkodó,tanácsadó
+TANÁZIA,FEMALE,NULL,az Atanázia önállósult becézője
+TARCAL,MALE,kun-magyar,(ismeretlen)
+TARDOS,MALE,magyar,tar,kopasz
+TARJÁN,MALE,török-magyar,méltóságnév
+TARZÍCIA,FEMALE,görög-latin,bátor
+TARZÍCIUSZ,MALE,görög-latin,bátor
+TARÁZ,MALE,görög,zavarba ejtő,nyugtalanító
+TAS,MALE,török-magyar,kő,jóllakott,megtelt
+TASZILÓ,MALE,olasz,(ismeretlen)
+TATJÁNA,FEMALE,latin-orosz-német-magyar,Tatius családjához tartozó
+TAVASZKA,FEMALE,magyar,tavasz
+TEA,FEMALE,NULL,a Dorothea (Dorottya) önállósult német becézője
+TEKLA,FEMALE,görög,Isten dicsősége
+TELMA,FEMALE,angol,ápoló,óvó,vigyázó
+TEOBALD,MALE,német,nép + merész
+TEODOLINDA,FEMALE,német,nép + kígyó (mint a titkos tudás jelképe),hársfából készült pajzs
+TEODOR,MALE,görög-német-latin,Isten ajándéka
+TEODÓRA,FEMALE,görög-német,Isten ajándéka
+TEODÓZIA,FEMALE,görög-latin,Isten ajándéka
+TEOFIL,MALE,görög-latin,Isten kedveltje
+TEOFILA,FEMALE,görög-latin,Isten kedveltje,Istent kedvelő
+TEOFÁNIA,FEMALE,görög,Isten megmutatkozott
+TERCIA,FEMALE,latin,leánynak született harmadik gyermek
+TERESTYÉN,MALE,kelta-latin-magyar,szomorú
+TERÉZ,FEMALE,görög,hőség,forróság,nyár,aratás,szüret,vadászni
+TERÉZIA,FEMALE,NULL,a Teréz latinos továbbképzése
+TESSZA,FEMALE,NULL,az angol Theresa önállósult becézője
+TEÓ,MALE,NULL,a Teodor német rövidülése
+TEÓNIA,FEMALE,görög,Istenhez tartozó
+TIBOR,MALE,NULL,a Tiborc rövidülése
+TIBORC,MALE,latin,Tibur városából való férfi
+TIBÁD,MALE,német,nép + merész
+TICIÁNA,FEMALE,latin,Titus családjához tartozó
+TIHAMÉR,MALE,szláv-magyar,csendet kedvelő
+TILDA,FEMALE,NULL,a Matild és a Klotild német becézője
+TILLA,FEMALE,NULL,a Matild és az Otília német önállósult rövidülése
+TIMON,MALE,görög,tisztelt,megbecsült,nép + ember
+TIMUR,MALE,török,vas
+TIMÓT,MALE,görög,Isten becsülője
+TIMÓTEA,FEMALE,görög-latin,Isten becsülője
+TINA,FEMALE,NULL,a -tina, -tine végű női nevek önállósult német becézője
+TIRZUSZ,MALE,görög-latin,növényszár,kocsány,bot
+TITANILLA,FEMALE,NULL,a Titánia latin kicsinyítőképzős származéka
+TITUSZ,MALE,latin,tisztel,becsült,tiszteletreméltó férfiú,mezei galamb
+TITÁN,MALE,görög,mondabeli névalkotás
+TITÁNIA,FEMALE,görög,hitregebeli név
+TIVADAR,MALE,görög-latin,Isten ajándéka
+TOMAJ,MALE,magyar,vitás
+TOMOR,MALE,török-magyar,vas
+TONUZÓBA,MALE,besenyő-kun,vadkan-apa
+TOSZKA,FEMALE,olasz,toszkánai nő
+TRISZTÁN,MALE,francia-magyar,szomorú
+TUDOR,MALE,velszi,Isten ajándéka
+TULIPÁN,FEMALE,perzsa-oszmán-török-olasz-német-magyar,a virág neve
+TÁBITA,FEMALE,arameus,őz,gazella
+TÁDÉ,MALE,NULL,a Taddeus német becézője
+TÁLIA,FEMALE,görög,a színjátszás istennőjének nevéből
+TÁNYA,FEMALE,orosz,bálkirálynő
+TÁRKÁNY,MALE,kabar,kovács
+TÉMISZ,FEMALE,görög,használati mód,természetes jog,rendelet,rendelkezés
+TÉNIA,FEMALE,NULL,az Antónia rövidült változata
+TÉTISZ,FEMALE,görög,a tengeristen egyik leányának nevéből
+TÉTÉNY,MALE,török-magyar,fejedelem
+TÉZEUSZ,MALE,görög-német-magyar,alapító,törvényhozó
+TÍMEA,FEMALE,görög-magyar,jó + tisztelet
+TÍRIA,FEMALE,görög,Thyros szigetéről való nő
+TÓBIA,FEMALE,héber,Jahve jó
+TÓBIÁS,MALE,héber-latin,Jahve jó
+TÓDOR,MALE,NULL,a Teodor rövidüléséből
+TÖHÖTÖM,MALE,török-magyar,fejedelem
+TÖMÖR,MALE,török-magyar,vas
+TÖRTEL,MALE,török-magyar,a négy vidék ura
+TÜNDE,FEMALE,NULL,Vörösmarty Mihály névalkotása a tündér szóból
+UBUL,MALE,görög-magyar,(ismeretlen)
+UGOD,MALE,szlovák-magyar,magyar
+UGOR,MALE,szlovák-magyar,magyar
+UGRON,MALE,szláv-magyar,magyar
+ULJÁNA,FEMALE,NULL,a Julianna orosz formájából
+ULLA,FEMALE,NULL,a német Ulrike és az Ursula önállósult becézője
+ULRIK,MALE,német,öröklött birtokán uralkodó
+ULRIKA,FEMALE,német,öröklött birtokán uralkodó
+ULÁSZLÓ,MALE,latin-szláv,(ismeretlen)
+UPOR,MALE,magyar,(ismeretlen)
+URBÁN,MALE,NULL,az Orbán régebbi alakváltozata
+URBÁNA,FEMALE,latin,városi,finom,művelt,udvarias
+URIEL,MALE,héber,Jahve által felvilágosított,Jahve segítségével tisztánlátó
+URIÁS,MALE,héber,Jahve az én világosságom
+UROS,MALE,magyar,úr
+URZULINA,FEMALE,NULL,az Ursula (Orsolya) latin képzős származéka
+URÁNIA,FEMALE,görög,égi
+UZOR,MALE,török-magyar,úz férfi
+ÜDVÖSKE,FEMALE,magyar,üdvös
+VAJK,MALE,török-magyar,gazdag
+VALDEMÁR,MALE,germán,uralom + hírnév
+VALENTIN,MALE,latin,erős,egészséges
+VALENTINA,FEMALE,latin,erős,egészséges
+VALTER,MALE,német,uralkodó sereg
+VALÉR,MALE,latin,erős,egészséges
+VALÉRIA,FEMALE,latin,erős,egészséges
+VANDA,FEMALE,lengyel,vend nő
+VANESSZA,FEMALE,NULL,Jonathan Swift névalkotása
+VARSÁNY,MALE,alán-magyar,(ismeretlen)
+VASZÍLIA,FEMALE,görög-szláv,királyi
+VAZUL,MALE,görög-szláv-magyar,királyi
+VELMIRA,FEMALE,szláv,nagy,hatalmas + béke
+VENCEL,MALE,német-szláv,koszorú + dicsőség
+VENDEL,MALE,német,a vandálok népéhez tartozó
+VENDELINA,FEMALE,német,a vandálok népéhez tartozó
+VERA,FEMALE,latin,igaz,igazat mondó,igaz beszédű
+VERBÉNA,FEMALE,latin,szentelt helyen szedett fű vagy ág
+VERITA,FEMALE,NULL,a Ver- kezdetű női nevek spanyolos rövidített és becézett formája
+VERNER,MALE,német,megőrzés + sereg
+VERON,FEMALE,NULL,a Veronika önállósult magyar becéző rövidülése
+VERONIKA,FEMALE,görög-latin,győzelmet hozó,igaz + ikon
+VERSÉNY,MALE,magyar,varsa,halfogó szerszám fiókja
+VERÉNA,FEMALE,német,tartózkodó,félénk
+VETÚRIA,FEMALE,latin,idős,koros
+VID,MALE,NULL,a Gujdó délszláv megfelelője
+VIDA,MALE,NULL,a Vid kicsinyítőképzős származéka
+VIDOR,MALE,magyar,vidám
+VIDOS,MALE,NULL,a Vid kicsinyítőképzős származéka
+VIKTOR,MALE,latin,győző,győztes
+VIKTORINA,FEMALE,NULL,a Viktor férfinév latin továbbképzése
+VIKTÓRIA,FEMALE,latin,győzelem
+VILHELMINA,FEMALE,latin-német,erős akaratú védelmező
+VILIBALD,MALE,német,akaraterős + merész
+VILJA,FEMALE,finn,gazdagság,jóság
+VILMA,FEMALE,latin-német,erős akaratú védelmező
+VILMOS,MALE,latin-germán,erős akaratú védelmező
+VINCE,MALE,latin,győztes
+VINCENCIA,FEMALE,latin,győztes
+VIOLA,FEMALE,magyar,a virág maga
+VIOLETTA,FEMALE,NULL,a Viola olasz kicsinyítőképzős származéka
+VIRGIL,MALE,latin,szűz
+VIRGÍLIA,FEMALE,latin,vékony zöld ág
+VIRGÍNIA,FEMALE,latin,lány,hajadon
+VIRÁG,FEMALE,magyar,a szó maga
+VITOLD,MALE,német,az erdőben uralkodó
+VITOLDA,FEMALE,német-latin,az erdőben uralkodó
+VITUS,MALE,latin-magyar,szíves,készséges,jóindulatú,szófogadó
+VITÁLIA,FEMALE,latin,életerős,eleven
+VITÁLIS,MALE,latin,életerős,eleven
+VITÉZ,MALE,magyar,a szó maga
+VIVIEN,FEMALE,NULL,a Viviána angol változata
+VIVIÁNA,FEMALE,latin,eleven,élő
+VIÁTOR,MALE,latin,utazó,utas
+VLADIMÍR,MALE,szláv,hatalom + béke
+VOLFRAM,MALE,német,farkas + holló
+VULFIA,FEMALE,német-latin,farkasként harcoló nő
+VÁRKONY,MALE,török-avar-magyar,(ismeretlen)
+VÁSZOLY,MALE,görög-szláv,királyi
+VÁZSONY,MALE,magyar,(ismeretlen)
+VÉTA,FEMALE,héber-szláv,Isten az én esküvésem
+VÍTA,FEMALE,latin-magyar,életem,életkém
+XAVÉR,MALE,spanyol,Xavér községből való
+XAVÉRIA,FEMALE,latin,Xavér községből való
+XÉNIA,FEMALE,görög,vendég
+ZAJZON,MALE,magyar,(ismeretlen)
+ZAKARIÁS,MALE,héber-latin,Jahve emlékezik
+ZAKEUS,MALE,héber,igazságos,ártatlan
+ZAKÁRIA,FEMALE,héber-latin,Jahve emlékezik
+ZALÁN,MALE,török-magyar,dobó,ütő
+ZAMFIRA,FEMALE,román,zafír
+ZARÁND,MALE,magyar,arany
+ZDENKA,FEMALE,NULL,a Szidónia szláv megfelelőjéből
+ZDENKÓ,MALE,latin-szláv,Sidon városából való férfi
+ZEBULON,MALE,héber,zebulon törzsből származó férfi
+ZEKŐ,MALE,magyar,(ismeretlen)
+ZELLA,FEMALE,német,a terem védőnője
+ZELMA,FEMALE,héber-latin,az Istenség védelme alatt álló nő
+ZELMIRA,FEMALE,NULL,női név Rossini és Gluck operáiból
+ZERIND,MALE,magyar,szerb
+ZIA,FEMALE,NULL,a -zia végű női nevek végének becéző önállósulása
+ZINA,FEMALE,latin,rózsa
+ZINAJDA,FEMALE,görög-orosz,Zeuszhoz tartozó
+ZITA,FEMALE,latin-német,sebes,gyors
+ZOBOR,MALE,szláv-magyar,gyülekezés
+ZOLNA,FEMALE,NULL,Vörösmarty Mihály névalkotása
+ZOLTÁN,MALE,török-magyar,fejedelem
+ZOLTÁNA,FEMALE,török-latin,fejedelem
+ZOMBOR,MALE,szláv-magyar,bölény
+ZOMILLA,FEMALE,tisztázatlan,(ismeretlen)
+ZORÁN,MALE,délszláv,hajnal
+ZOTMUND,MALE,német-magyar,erős,gyors,merész
+ZOÁRD,MALE,türk-magyar,(ismeretlen)
+ZOÉ,FEMALE,görög,élet
+ZSADÁNY,MALE,magyar,(ismeretlen)
+ZSAKLIN,FEMALE,francia,csaló
+ZSANETT,FEMALE,NULL,a Johanna francia alakváltozata
+ZSANNA,FEMALE,NULL,a Johanna orosz alakváltozata
+ZSENI,FEMALE,francia,előkelő,jeles nemzetségből való
+ZSERALDINA,FEMALE,francia,dárda,hatalom
+ZSIGMOND,MALE,germán,győzelmes védő
+ZSOLT,MALE,magyar,(ismeretlen)
+ZSOMBOR,MALE,bolgár-török-magyar,bölény
+ZSUZSA,FEMALE,NULL,a Zsuzsanna magyar rövidülése
+ZSUZSANNA,FEMALE,héber-görög-latin,liliom
+ZSÓFIA,FEMALE,görög,bölcsesség
+ZSÓKA,FEMALE,NULL,az Erzsébet női név Erzsóka becézőjének további rövidülése
+ZULEJKA,FEMALE,arab,hercegnő
+ZÁDOR,MALE,szláv-magyar,erőszakos
+ZÁGON,MALE,szláv-magyar,dűlő mögötti terület
+ZÁMOR,MALE,magyar,szántó
+ZÉNÓ,MALE,görög-latin,Zeusztól származó
+ZÉTÉNY,MALE,magyar,(ismeretlen)
+ZÍLIA,FEMALE,NULL,a német Zilly névnek és a Cecíliának latinosított formája
+ZÓJA,FEMALE,szláv,élet
+ZÓRA,FEMALE,szláv,hajnal
+ZÖLDIKE,FEMALE,magyar,a növény neve

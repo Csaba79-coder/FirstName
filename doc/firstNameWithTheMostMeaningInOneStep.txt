@@ -1,0 +1,15 @@
+FirstNameWithTheMostMeaningInOneStep:
+
+public List<FirstName> nameListWithMostMeaning(){
+    List<FirstName> nameListWithMostMeaning = new ArrayList<>();
+    nameListWithMostMeaning.add(nameList.get(0));
+    for (FirstName firstName : nameList) {
+        if (firstName.getMeaning().size() > nameListWithMostMeaning.get(0).getMeaning().size()) {
+            nameListWithMostMeaning.clear();
+            nameListWithMostMeaning.add(firstName);
+        } else if (firstName.getMeaning().size() == nameListWithMostMeaning.get(0).getMeaning().size()) {
+            nameListWithMostMeaning.add(firstName);
+        }
+    }
+    return nameListWithMostMeaning;
+}

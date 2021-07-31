@@ -1,0 +1,188 @@
+= Nevek
+
+A nevek.txt fájl trtalmazza a feladathoz szükséges adatokat. A feladatok megoldásához ezt a fájlt kell beolvasnod, a benne található adatokat kezelned, valamint tárolnod.
+
+
+== A fájl tartalma
+
+A fájl a Magyarországon anyakönyvezhető keresztnevek (nem teljes) listáját, valamint a hozzájuk tartozó főbb adatokat tartalmazza.
+
+=== A fájlban lévő sorok felépítése a következő:
+- név,
+- nem (MALE / FEMALE),
+- eredet (a népcsoport vagy népcsoportok neve - több népcsoport esetén kötőjellel elválasztva; de lehet NULL is), jelentés vagy jelentések
+
+Minden különálló adat vesszővel van elválasztva (kivéve a fent leírt “eredet”-nél a népcsoportok neve).
+
+Ügyelj arra, hogy több jelentés esetén azok is vesszővel vannak elválasztva! (Lehet, hogy egy jelentés van, de lehet több is.)
+
+
+== Feladatok
+
+'''
+
+A nevek a fájlban csupa nagybetűvel szerepelnek.
+
+Beolvasáskor módosíts a megjelenésükön:
+csak a kezdőbetű legyen nagy, a többi kicsi. (Megjegyzés: mindegyik név egy szóból áll.)
+
+
+Hozz létre egy Name osztályt és egy Gender enumot a fájl beolvasásához.
+
+A Name osztályban hozd létre a megfelelő field-eket, konstruktor(oka)t és metódusokat.
+
+A Gender enum értékei: MALE, FEMALE (ahogy a fájlban is szerepel).
+
+(Megjegyzés: a népcsoportokhoz felesleges enum használata…)
+
+
+Az 1. és 2. feladatnak megfelelően olvasd be a fájlt. Az adatokat tárold megfelelő adatstruktúrában.
+
+
+Írj metódust, amely szépen kiírja a nevet az összes adatával együtt!
+
+Például (nem feltétlen követendő példa):
+
+eredeti, fájlban szereplő sor:
+
+LETÍCIA,FEMALE,latin,öröm,vidámság,szépség,kellem,báj
+
+kiírás:
+
+	Letícia (női név)
+		latin eredetű
+		jelentése(i):
+			öröm
+			vidámság
+			szépség
+			kellem
+			báj
+
+(Tipp: @Override toString)
+
+
+Írj metódusokat, amelyek válaszolnak az alábbi kérdésekre, vagy elvégzik a leírt feladatokat!
+
+Tipp elöljáróban: Olykor a feladat leírása tartalmazza, hogy érdemes általánosítani, olykor viszont nem. Azonban még akkor is, amikor a feladat erre külön nem hívja fel a figyelmedet, tudd: MINDIG érdemes általánosítani! Mármint akkor, ha lehet… :D
+
+Tipp 2.: Nem muszáj minden feladatot egy-egy metódusban megoldani...
+
+
+Mit jelent a te neved?
+
+
+Melyik betűvel kezdődik a legtöbb név?
+
+
+A különböző kezdőbetűkhoz hány név tartozik?
+
+Írj olyan általános metódust, amely bemeneti paraméterként kap egy betűt, és megszámolja (szám típusként visszaadja), hogy azzal a betűvel hány név kezdődik! Ezt a metódust használd azután az összes kezdőbetű vizsgálatához!
+(Megjegyzés: nem minden betű képviselteti magát a névlistában kezdőbetűként a magyar ábécéből. De írd meg a metódusodat úgy, mintha ezt nem tudnád. Pszt!)
+
+
+Mekkora a férfi-női nevek aránya? (Ha 10 név lenne összesen, és abból 4 férfinév, 6 női, akkor az arány 40:60 lenne.)
+
+
+Melyik névnek van a legtöbb jelentése? Vagy melyik neveknek?
+
+Tehát ha az 1. helyen holtverseny alakul ki, a metódusod adja vissza az összes nevet, és ne csak egyet!
+
+
+Hány darab olyan férfinév van, amelynek a jelentése “ismeretlen”?
+
+A fájlban így szerepel: (ismeretlen)
+
+
+És hány női név van, amelynek a jelentése “ismeretlen”?
+
+(Tipp: ez a feladat az előzővel együtt valójában ugyanazon metódus két meghívásával megoldható…)
+
+
+Hány olyan női név van, amely nem A (vagyis a) betűre végződik?
+
+Írd meg a metódust általánosan! Tehát úgy, hogy bármelyik nemnél bármelyik betűt tudd vizsgálni.
+
+A metódusod térjen vissza a kiszűrt nevek listájával (minden adatukkal).
+
+
+Az előző feladat egy variánsa: Hány olyan férfinév van, amelyik A-ra (vagyis a-ra) végződik?
+
+(Tipp: Ugyanúgy általánosítható, mint az előző feladat. Ugye?)
+
+
+Tedd lehetővé a nevekre való keresést!
+
+A metódusod bemeneti paramétere legyen egy “névtöredék”, és a metódusod listázza ki azokat a neveket (minden adatukkal együtt), amelyek tartalmazzák a bemeneti paraméterként kapott “névtöredéket”.
+
+Például: A metódusnak bemeneti paraméterként azt adom át, hogy “Anna”. Ekkor a metódusod listázza ki: Anna, Annamária, Hanna, Johanna stb.
+
+(Megjegyzés: keresés szempontjából a kis- és nagybetűk nem különböznek.)
+
+
+Tedd lehetővé a jelentésekben való keresést!
+
+Mint az előzőnél, csak a metódusod nem a nevekben keres, hanem a jelentésekben.
+
+Kiegészítésként: Amennyiben az egyik névnek több jelentése is van, és az egyik jelentésében megtalálható a keresett szó(töredék), akkor ez a jelentés kerüljön az első helyre mindenképpen! De ezt úgy tedd, hogy a jelentések eredeti sorrendjén ne változtass.
+
+Például: A “szép” szóra keresek. A találatok között szerepelni fog (többek között) ez a sor:
+
+	LETÍCIA,FEMALE,latin,öröm,vidámság,szépség,kellem,báj
+
+Azonban a metódusod ezzel a találattal így térjen vissza:
+
+	LETÍCIA,FEMALE,latin,szépség,öröm,vidámság,kellem,báj
+
+
+
+Tedd lehetővé a kezdőbetűre ÉS a nemre való keresést!
+
+A metódusod bemeneti paraméterként kap egy betűt és egy nemet (vagy igent, haha), és visszaadja azokat a neveket, amelyek ahhoz a nemhez tartoznak, továbbá azzal a betűvel kezdődnek.
+
+
+Tedd lehetővé az eredetre való keresést!
+
+A metódusod bemeneti paraméterként kap egy eredetet (egy népcsoport nevét), és visszaadja azokat a neveket, amelyek attól a népcsoporttól erednek.
+
+Extra: Ne csak egy népcsoportra lehessen egyszerre keresni a metódusoddal, hanem többre is! Ha több népcsoportot kap a metódusod bemeneti paraméterként, akkor csak azokat a neveket adja vissza, amelyekben mindegyik népcsoport szerepel az eredetnél.
+
+(Tipp: varargs
+
+https://www.baeldung.com/java-varargs
+
+Megjegyzés: noha ez nem követelmény, ritkán használt, de azért érdemes megtanulni.)
+
+Még egy extra: Az előző extra módosítása… Ha több eredetre keresek rá, de a névnél csak az egyik szerepel, már akkor is számítson találatnak! De a metódusod helyezze előre azokat, amelyekben több egyezés található.
+Például rákeresek erre: “magyar, görög, török, latin”. A találatok között előbb jelenjenek meg azok a nevek, amelyeknél mind a négy népcsoport szerepel, utána azok, amelyeknél csak három… és végül azok, amelyeknél csak egy.
+
+'''
+
+Bónusz
+
+Hozz létre külön osztályt a keresési feltételeknek! Ebben az osztályban legyen lehetőség a nevekhez tartozó minden adatra való keresésre.
+
+Tedd lehetővé, hogy ha csak névre akarok keresni, akkor a programod csak névre keressen. De ha névre és nemre akarok keresni, akkor a programod névre és nemre is keressen. Vagy ha minden adatra akarok keresni - hát akkor úgy tegyen!
+
+Például ki akarom listázni azokat a…
+férfi neveket, amelyek
+a betűre végződnek, továbbá
+csak és kizárólag magyar eredetűek, és
+pontosan egy jelentésük van,
+és az a jelentés nem “ismeretlen”
+
+Aztán meg ki akarom listázni…
+az összes női nevet
+
+Később pedig ki akarom listázni azokat a…
+neveket, amelyekben
+szerepel ‘a’ betű, de
+nem szerepel ‘k’ betű,
+és az eredetük nem ismert (a fájlban NULL)
+
+Tipp: Gondolj arra, hogyan működnek a netes keresők - például az úgynevezett “összetett” vagy “részletes” keresők! Van sok mező, amit kitölthetsz, de nem kötelező mindegyiket kitöltened. A keresőt “mozgató” program annak megfelelően fog keresni, az adatok között szűrni, hogy te mikre kerestél rá. Amire nem keresel rá kifejezetten (üresen hagyod a mezőt), azt nem veszi figyelembe.
+
+Lásd például:
+
+https://www.antikvarium.hu/reszletes-kereso
+
+(Megjegyzés: Nem követelmény Scanner használata, vagyis felhasználói input kérése. Elegendő, ha létrehozol a programkódon belül keresési feltételeket, és futtatod a programot. De - természetesen - ha szeretnél, létrehozhatsz egy felhasználói felületet.)

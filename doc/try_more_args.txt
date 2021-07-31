@@ -1,0 +1,94 @@
+Calling in processor:
+
+        Set<String> nameByOriginVarArgs = runSeventeenthExtra();
+        printSet(nameByOriginVarArgs);
+        System.out.println("------------------------------------");
+        Set<String> nameByOriginMatchingAllArgs = runSeventeenthExtraMoreArgs();
+        printSet(nameByOriginMatchingAllArgs);
+
+First try:
+
+public static Set<String> runSeventeenthExtra() {
+        return nameByOriginVarArgsAnyOfArgsMatches();
+    }
+
+    private static Set<String> nameByOriginVarArgsAnyOfArgsMatches() {
+        Set<String> tempList = new HashSet<>();
+
+        for (List<FirstName> firstNameList : firstNamesMap.values()) {
+            for (FirstName firstName : firstNameList) {
+                if (varArgMethod(ARGS, firstName.getOrigin()))
+                    tempList.add(firstName.getFirstName());
+                }
+            }
+        return tempList;
+    }
+
+    private static boolean varArgMethod(Object[] args, List<String> stringList) {
+        for (Object arg : args) {
+            for (String s : stringList) {
+                if (arg.equals(s)) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+    private static boolean varArgs(List<String> stringList, Object[] args) {
+        for (String s : stringList) {
+            if (Arrays.asList(args).contains(s)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+------------------------------------------------------------------------------------------------------------------------
+
+2nd try:
+
+    public static Set<String> runSeventeenthExtraMoreArgs() {
+        return findMoreArgsFitsOrigin(ARGS);
+    }
+    private static Set<String> findMoreArgsFitsOrigin(Object[] args) {
+        Set<String> stringSet = new HashSet<>();
+
+        for (List<FirstName> firstNameList : firstNamesMap.values()) {
+            for (FirstName firstName : firstNameList) {
+                if (varArgs(firstName.getOrigin(), args)) {
+                    stringSet.add(firstName.getFirstName());
+                }
+            }
+        }
+        return stringSet;
+    }
+
+------------------------------------------------------------------------------------------------------------------------
+
+3rd try (same result as before!):
+
+    public static Set<String> runSeventeenthExtra() {
+            return findByArgs(ARGS);
+        }
+
+    private static boolean verifyAllEqualUsingALoop(List<String> list, Object[] args) {
+        for (String string : list) {
+            if (Arrays.asList(args).contains(string)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    private static Set<String> findByArgs(Object[] args) {
+        Set<String> stringSet = new HashSet<>();
+        for (List<FirstName> firstNameList : firstNamesMap.values()) {
+            for (FirstName firstName : firstNameList) {
+                if (verifyAllEqualUsingALoop(firstName.getMeaning(), ARGS)) {
+                    stringSet.add(firstName.getFirstName());
+                }
+            }
+        }
+        return stringSet;
+    }

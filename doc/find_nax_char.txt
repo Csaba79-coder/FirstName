@@ -1,0 +1,18 @@
+Find the char that the most name starts with! (here returns the mumber!!!)
+
+private static int findMaxChar() {
+        int max = 0;
+
+        for (List<FirstName> firstNameList : firstNamesMap.values()) {
+            for (FirstName firstName : firstNameList) {
+                characterMap.putIfAbsent(String.valueOf(firstName.getFirstName().charAt(0)), new ArrayList<>());
+                characterMap.get(String.valueOf(firstName.getFirstName().charAt(0))).add(firstName);
+                for (Map.Entry<String, List<FirstName>> entry : characterMap.entrySet()) {
+                    if (entry.getValue().size() > max) {
+                        max = entry.getValue().size();
+                    }
+                }
+            }
+        }
+        return max;
+    }

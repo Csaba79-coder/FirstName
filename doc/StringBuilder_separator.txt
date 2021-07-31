@@ -1,0 +1,46 @@
+StringBuilder - Separator
+
+public static void main(String[] args) {
+
+        // Processor.run();
+
+        Presentation p = new Presentation(1, "random");
+
+        System.out.println(p);
+
+        List<String> randoms = new ArrayList<>(Arrays.asList("random1", "random2", "random3"));
+
+        System.out.println(getString(randoms, " *** kiscica *** "));
+
+    }
+
+    public static String getString(List<String> list, String separator) {
+        StringBuilder b = new StringBuilder();
+        for (String s : list) {
+            b.append(s).append(separator);
+        }
+
+        b.setLength(b.length() - separator.length());
+
+        return b.toString();
+
+    }
+------------------------------------------------------------------------------------------------------------------------
+
+package model;
+
+public class Presentation {
+
+    private long id;
+    private String name;
+
+    public Presentation(long id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return id + " - " + name;
+    }
+}
